@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Parameter>
+  <Module1>
+    <TeachPosX1>0.000</TeachPosX1>
+    <TeachPosY1>0.000</TeachPosY1>
+    <TestPtX1>1.000</TestPtX1>
+    <TestPtY1>4.000</TestPtY1>
+    <TestPtX2>2.000</TestPtX2>
+    <TestPtY2>5.000</TestPtY2>
+    <TestPtX3>3.000</TestPtX3>
+    <TestPtY3>6.000</TestPtY3>
+    <CamToOriginOffsetX>2.000</CamToOriginOffsetX>
+    <CamToOriginOffsetY>3.000</CamToOriginOffsetY>
+  </Module1>
+  <Module2>
+    <TeachPosX1>0.000</TeachPosX1>
+    <TeachPosY1>0.000</TeachPosY1>
+    <TestPtX1>7.000</TestPtX1>
+    <TestPtY1>1.000</TestPtY1>
+    <TestPtX2>8.000</TestPtX2>
+    <TestPtY2>2.000</TestPtY2>
+    <TestPtX3>9.000</TestPtX3>
+    <TestPtY3>3.000</TestPtY3>
+    <CamToOriginOffsetX>4.000</CamToOriginOffsetX>
+    <CamToOriginOffsetY>5.000</CamToOriginOffsetY>
+  </Module2>
+</Parameter>

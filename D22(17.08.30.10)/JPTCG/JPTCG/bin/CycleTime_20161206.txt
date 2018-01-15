@@ -1,0 +1,2674 @@
+barCode  cost: 141.2522ms
+Rotatry  cost: 781.262ms
+barCode  cost: 531.2582ms
+InspectMod1Unit  cost: 1721.2764ms
+InspectMod2Unit  cost: 1821.278ms
+Rotatry  cost: 780.012ms
+rcst1  cost: 7.5001ms
+rcst2  cost: 2.5ms
+barCode  cost: 531.2582ms
+Dark Test2  cost: 515.0079ms
+Dark Test1  cost: 1638.7751ms
+InspectMod1Unit  cost: 1757.527ms
+InspectMod2Unit  cost: 1856.2785ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 503.7577ms
+White Test1  cost: 512.5079ms
+Mod1 Point0 Motion  cost: 1215.0187ms
+Mod1 Point0 GetCount  cost: 513.7579ms
+Mod1 Point0 CalTrans And SaveData  cost: 51.2508ms
+Mod1 Point2 Motion  cost: 201.253ms
+Mod1 Point2 GetCount  cost: 517.508ms
+Mod1 Point2 CalTrans And SaveData  cost: 55.0008ms
+Mod1 Point4 Motion  cost: 200.003ms
+Spectrograph2  cost: 3250.0499ms
+Mod1 Point4 GetCount  cost: 512.5079ms
+Mod1 Point4 CalTrans And SaveData  cost: 41.2506ms
+finu2  cost: 105.0016ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5001ms
+tsta2  cost: 506.2578ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 2.5ms
+dest2  cost: 3243.7998ms
+CGhost Total Cost 2=3857.5592ms
+JPT Total Cost 2=7946.372ms
+Total Cost 2=11803.9312ms
+################### Test2 End ####################
+dest1  cost: 5701.3376ms
+CGhost Total Cost 1=5808.8392ms
+JPT Total Cost 1=8400.1291ms
+Total Cost 1=14208.9683ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 507.5078ms
+barCode  cost: 536.2582ms
+Dark Test1  cost: 1120.0172ms
+YtoWhite  cost: 101.2515ms
+InspectMod1Unit  cost: 1705.0262ms
+InspectMod2Unit  cost: 1808.7778ms
+White Test2  cost: 502.5077ms
+White Test1  cost: 516.2579ms
+Mod1 Point0 Motion  cost: 801.2623ms
+Mod1 Point0 GetCount  cost: 527.5081ms
+Mod1 Point0 CalTrans And SaveData  cost: 42.5007ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 522.508ms
+Mod1 Point2 CalTrans And SaveData  cost: 47.5008ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2833.7935ms
+Mod1 Point4 GetCount  cost: 517.5079ms
+Mod1 Point4 CalTrans And SaveData  cost: 50.0008ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 2.5001ms
+tsta2  cost: 601.2592ms
+dest2  cost: 3223.7996ms
+CGhost Total Cost 2=3927.5604ms
+JPT Total Cost 2=5652.5868ms
+Total Cost 2=9580.1472ms
+################### Test2 End ####################
+dest1  cost: 5777.5888ms
+CGhost Total Cost 1=5877.5903ms
+JPT Total Cost 1=4662.5716ms
+Total Cost 1=10540.1619ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 507.5078ms
+barCode  cost: 992.5153ms
+Dark Test1  cost: 1116.2671ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 505.0078ms
+InspectMod1Unit  cost: 2141.2829ms
+White Test1  cost: 511.2578ms
+Mod1 Point0 Motion  cost: 801.2624ms
+InspectMod2Unit  cost: 3271.3002ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 40.0006ms
+Mod1 Point2 Motion  cost: 200.003ms
+Mod1 Point2 GetCount  cost: 516.258ms
+Mod1 Point2 CalTrans And SaveData  cost: 46.2507ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2851.2938ms
+Mod1 Point4 GetCount  cost: 511.2578ms
+Mod1 Point4 CalTrans And SaveData  cost: 46.2507ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.003ms
+SendImageAdvance1  cost: 2.5001ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 2.5001ms
+tsta2  cost: 602.5092ms
+dest2  cost: 3222.5495ms
+CGhost Total Cost 2=3927.5603ms
+JPT Total Cost 2=7135.1096ms
+Total Cost 2=11062.6699ms
+################### Test2 End ####################
+dest1  cost: 5761.3385ms
+CGhost Total Cost 1=5861.34ms
+JPT Total Cost 1=5546.3353ms
+Total Cost 1=11407.6753ms
+################### Test1 End ####################
+Rotatry  cost: 780.0119ms
+rcst2  cost: 0ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 507.5078ms
+barCode  cost: 987.5152ms
+Dark Test1  cost: 1121.2672ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 503.7578ms
+InspectMod1Unit  cost: 2143.7829ms
+White Test1  cost: 511.2578ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod2Unit  cost: 3240.0498ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 51.2508ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 517.5079ms
+Mod1 Point2 CalTrans And SaveData  cost: 42.5007ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2838.7936ms
+Mod1 Point4 GetCount  cost: 515.0079ms
+Mod1 Point4 CalTrans And SaveData  cost: 47.5007ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+tsta2  cost: 501.2577ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+dest2  cost: 3246.2998ms
+CGhost Total Cost 2=3850.0591ms
+JPT Total Cost 2=7090.109ms
+Total Cost 2=10940.1681ms
+################### Test2 End ####################
+dest1  cost: 5700.0875ms
+CGhost Total Cost 1=5900.0906ms
+JPT Total Cost 1=5546.335ms
+Total Cost 1=11446.4256ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 508.7578ms
+barCode  cost: 986.2652ms
+Dark Test1  cost: 1118.7671ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 505.0077ms
+InspectMod1Unit  cost: 2142.5329ms
+White Test1  cost: 511.2579ms
+Mod1 Point0 Motion  cost: 790.0121ms
+InspectMod2Unit  cost: 3237.5497ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 48.7507ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 510.0078ms
+Mod1 Point2 CalTrans And SaveData  cost: 45.0007ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2850.0438ms
+Mod1 Point4 GetCount  cost: 522.508ms
+Mod1 Point4 CalTrans And SaveData  cost: 46.2507ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 2.5001ms
+tsta2  cost: 601.2592ms
+dest2  cost: 3218.7995ms
+CGhost Total Cost 2=3922.5603ms
+JPT Total Cost 2=7101.359ms
+Total Cost 2=11023.9193ms
+################### Test2 End ####################
+dest1  cost: 5750.0884ms
+CGhost Total Cost 1=5850.0899ms
+JPT Total Cost 1=5543.8352ms
+Total Cost 1=11393.9251ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 503.7577ms
+barCode  cost: 986.2651ms
+Dark Test1  cost: 1083.7666ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 503.7577ms
+InspectMod1Unit  cost: 2141.2829ms
+White Test1  cost: 510.0078ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod2Unit  cost: 3288.8005ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 32.5005ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 515.0079ms
+Mod1 Point2 CalTrans And SaveData  cost: 48.7507ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2835.0435ms
+Mod1 Point4 GetCount  cost: 517.5079ms
+Mod1 Point4 CalTrans And SaveData  cost: 42.5007ms
+finu2  cost: 102.5015ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 602.5093ms
+dest2  cost: 3227.5496ms
+CGhost Total Cost 2=3932.5604ms
+JPT Total Cost 2=7131.3594ms
+Total Cost 2=11063.9198ms
+################### Test2 End ####################
+dest1  cost: 5772.5886ms
+CGhost Total Cost 1=5872.5902ms
+JPT Total Cost 1=5505.0844ms
+Total Cost 1=11377.6746ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 508.7578ms
+barCode  cost: 982.5151ms
+Dark Test1  cost: 1140.0175ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 503.7577ms
+InspectMod2Unit  cost: 2231.2843ms
+White Test1  cost: 517.5079ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3186.299ms
+Mod1 Point0 GetCount  cost: 510.0078ms
+Mod1 Point0 CalTrans And SaveData  cost: 42.5007ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 516.2579ms
+Mod1 Point2 CalTrans And SaveData  cost: 52.5008ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2837.5436ms
+Mod1 Point4 GetCount  cost: 513.7579ms
+Mod1 Point4 CalTrans And SaveData  cost: 43.7507ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 601.2593ms
+dest2  cost: 3215.0493ms
+CGhost Total Cost 2=3918.8102ms
+JPT Total Cost 2=6081.3434ms
+Total Cost 2=10000.1536ms
+################### Test2 End ####################
+dest1  cost: 5736.3381ms
+CGhost Total Cost 1=5836.3397ms
+JPT Total Cost 1=6610.1015ms
+Total Cost 1=12446.4412ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 617.5094ms
+barCode  cost: 993.7652ms
+Dark Test2  cost: 1005.0155ms
+YtoWhite  cost: 101.2515ms
+White Test1  cost: 517.508ms
+InspectMod1Unit  cost: 2146.283ms
+White Test2  cost: 505.0077ms
+Mod1 Point0 Motion  cost: 801.2623ms
+Mod1 Point0 GetCount  cost: 518.758ms
+Mod1 Point0 CalTrans And SaveData  cost: 28.7504ms
+Mod1 Point2 Motion  cost: 201.2531ms
+InspectMod2Unit  cost: 3262.5501ms
+Mod1 Point2 GetCount  cost: 526.2581ms
+Mod1 Point2 CalTrans And SaveData  cost: 43.7507ms
+Mod1 Point4 Motion  cost: 200.003ms
+Mod1 Point4 GetCount  cost: 523.7581ms
+Mod1 Point4 CalTrans And SaveData  cost: 51.2508ms
+Spectrograph2  cost: 2838.7936ms
+ToOrigin  cost: 200.003ms
+SendImageAdvance1  cost: 2.5001ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 0ms
+finu2  cost: 102.5016ms
+tsta2  cost: 501.2577ms
+dest1  cost: 3123.7979ms
+CGhost Total Cost 1=3223.7994ms
+JPT Total Cost 1=5057.5777ms
+Total Cost 1=8281.3771ms
+################### Test1 End ####################
+dest2  cost: 5613.8362ms
+CGhost Total Cost 2=6217.5955ms
+JPT Total Cost 2=7611.3669ms
+Total Cost 2=13828.9624ms
+################### Test2 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 507.5078ms
+barCode  cost: 996.2653ms
+Dark Test1  cost: 1103.767ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 503.7578ms
+White Test1  cost: 515.0079ms
+InspectMod2Unit  cost: 2291.2852ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3202.5492ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 46.2508ms
+Mod1 Point2 Motion  cost: 200.003ms
+Mod1 Point2 GetCount  cost: 511.2579ms
+Mod1 Point2 CalTrans And SaveData  cost: 46.2507ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2841.2936ms
+Mod1 Point4 GetCount  cost: 510.0079ms
+Mod1 Point4 CalTrans And SaveData  cost: 45.0006ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 602.5093ms
+dest2  cost: 3220.0494ms
+CGhost Total Cost 2=3925.0603ms
+JPT Total Cost 2=6143.8444ms
+Total Cost 2=10068.9047ms
+################### Test2 End ####################
+dest1  cost: 5767.5886ms
+CGhost Total Cost 1=5867.5902ms
+JPT Total Cost 1=6601.3514ms
+Total Cost 1=12468.9416ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 507.5078ms
+barCode  cost: 996.2653ms
+Dark Test1  cost: 1123.7672ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 502.5077ms
+InspectMod1Unit  cost: 2150.033ms
+White Test1  cost: 517.5079ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod2Unit  cost: 3252.55ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 52.5008ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 516.2579ms
+Mod1 Point2 CalTrans And SaveData  cost: 43.7507ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2843.7937ms
+Mod1 Point4 GetCount  cost: 513.7579ms
+Mod1 Point4 CalTrans And SaveData  cost: 51.2508ms
+finu2  cost: 102.5015ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 601.2593ms
+dest2  cost: 3226.2995ms
+CGhost Total Cost 2=3930.0603ms
+JPT Total Cost 2=7106.3592ms
+Total Cost 2=11036.4195ms
+################### Test2 End ####################
+dest1  cost: 5773.8387ms
+CGhost Total Cost 1=5873.8403ms
+JPT Total Cost 1=5571.3354ms
+Total Cost 1=11445.1757ms
+################### Test1 End ####################
+Rotatry  cost: 780.0119ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 502.5078ms
+barCode  cost: 1001.2654ms
+Dark Test1  cost: 1118.7672ms
+YtoWhite  cost: 101.2516ms
+White Test2  cost: 503.7578ms
+White Test1  cost: 517.5079ms
+InspectMod2Unit  cost: 2241.2844ms
+Mod1 Point0 Motion  cost: 801.2623ms
+InspectMod1Unit  cost: 3191.299ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 43.7507ms
+Mod1 Point2 Motion  cost: 200.003ms
+Mod1 Point2 GetCount  cost: 523.7581ms
+Mod1 Point2 CalTrans And SaveData  cost: 47.5007ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2815.0432ms
+Mod1 Point4 GetCount  cost: 517.508ms
+Mod1 Point4 CalTrans And SaveData  cost: 53.7508ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 601.2592ms
+dest2  cost: 3221.2995ms
+CGhost Total Cost 2=3925.0603ms
+JPT Total Cost 2=6062.5932ms
+Total Cost 2=9987.6535ms
+################### Test2 End ####################
+dest1  cost: 5747.5882ms
+CGhost Total Cost 1=5847.5897ms
+JPT Total Cost 1=6612.6014ms
+Total Cost 1=12460.1911ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 501.2577ms
+barCode  cost: 993.7652ms
+Dark Test1  cost: 1125.0173ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 503.7578ms
+InspectMod2Unit  cost: 2238.7843ms
+White Test1  cost: 512.5078ms
+Mod1 Point0 Motion  cost: 791.2622ms
+InspectMod1Unit  cost: 3136.2982ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 47.5008ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 517.5079ms
+Mod1 Point2 CalTrans And SaveData  cost: 52.5008ms
+Mod1 Point4 Motion  cost: 200.003ms
+Spectrograph2  cost: 2846.2937ms
+Mod1 Point4 GetCount  cost: 515.008ms
+Mod1 Point4 CalTrans And SaveData  cost: 42.5006ms
+finu2  cost: 101.2516ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 1.25ms
+tsta2  cost: 502.5077ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+dest2  cost: 3203.7992ms
+CGhost Total Cost 2=3807.5585ms
+JPT Total Cost 2=6090.0935ms
+Total Cost 2=9897.652ms
+################### Test2 End ####################
+dest1  cost: 5650.0868ms
+CGhost Total Cost 1=5850.0899ms
+JPT Total Cost 1=6548.8505ms
+Total Cost 1=12398.9404ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 502.5077ms
+barCode  cost: 985.0152ms
+Dark Test1  cost: 1118.7671ms
+YtoWhite  cost: 101.2515ms
+White Test2  cost: 503.7577ms
+InspectMod1Unit  cost: 2140.0328ms
+White Test1  cost: 511.2579ms
+Mod1 Point0 Motion  cost: 790.0121ms
+InspectMod2Unit  cost: 3228.7996ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 41.2506ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 517.5079ms
+Mod1 Point2 CalTrans And SaveData  cost: 46.2508ms
+Mod1 Point4 Motion  cost: 200.003ms
+Spectrograph2  cost: 2836.2936ms
+Mod1 Point4 GetCount  cost: 511.2579ms
+Mod1 Point4 CalTrans And SaveData  cost: 48.7507ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.003ms
+SendImageAdvance1  cost: 2.5001ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 601.2592ms
+dest2  cost: 3256.3ms
+CGhost Total Cost 2=3960.0608ms
+JPT Total Cost 2=7071.3586ms
+Total Cost 2=11031.4194ms
+################### Test2 End ####################
+dest1  cost: 5800.0891ms
+CGhost Total Cost 1=5900.0906ms
+JPT Total Cost 1=5537.5851ms
+Total Cost 1=11437.6757ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 502.5077ms
+barCode  cost: 993.7652ms
+Dark Test1  cost: 1122.5172ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 503.7577ms
+InspectMod1Unit  cost: 2091.2821ms
+White Test1  cost: 510.0078ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod2Unit  cost: 3241.2998ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 51.2508ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 525.008ms
+Mod1 Point2 CalTrans And SaveData  cost: 43.7507ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2848.7938ms
+Mod1 Point4 GetCount  cost: 521.258ms
+Mod1 Point4 CalTrans And SaveData  cost: 61.251ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.003ms
+SendImageAdvance1  cost: 2.5001ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 602.5092ms
+dest2  cost: 3300.0507ms
+CGhost Total Cost 2=4005.0615ms
+JPT Total Cost 2=7096.359ms
+Total Cost 2=11101.4205ms
+################### Test2 End ####################
+dest1  cost: 5831.3396ms
+CGhost Total Cost 1=5931.3411ms
+JPT Total Cost 1=5501.3344ms
+Total Cost 1=11432.6755ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 613.7594ms
+barCode  cost: 985.0151ms
+Dark Test2  cost: 1001.2654ms
+YtoWhite  cost: 101.2516ms
+White Test1  cost: 517.5079ms
+InspectMod2Unit  cost: 2227.5343ms
+White Test2  cost: 502.5077ms
+Mod1 Point0 Motion  cost: 800.0123ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 35.0005ms
+InspectMod1Unit  cost: 3131.2981ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 512.5079ms
+Mod1 Point2 CalTrans And SaveData  cost: 41.2506ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Mod1 Point4 GetCount  cost: 516.258ms
+Mod1 Point4 CalTrans And SaveData  cost: 46.2507ms
+Spectrograph2  cost: 2830.0435ms
+ToOrigin  cost: 201.253ms
+SendImageAdvance1  cost: 2.5001ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.25ms
+finu2  cost: 102.5016ms
+tsta2  cost: 501.2577ms
+dest1  cost: 3125.048ms
+CGhost Total Cost 1=3225.0495ms
+JPT Total Cost 1=6031.3426ms
+Total Cost 1=9256.3921ms
+################### Test1 End ####################
+dest2  cost: 5622.5863ms
+CGhost Total Cost 2=6226.3456ms
+JPT Total Cost 2=6561.3509ms
+Total Cost 2=12787.6965ms
+################### Test2 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 503.7577ms
+barCode  cost: 1002.5154ms
+Dark Test1  cost: 1108.767ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 500.0077ms
+White Test1  cost: 515.0079ms
+InspectMod2Unit  cost: 2248.7845ms
+Mod1 Point0 Motion  cost: 801.2623ms
+InspectMod1Unit  cost: 3193.799ms
+Mod1 Point0 GetCount  cost: 518.7579ms
+Mod1 Point0 CalTrans And SaveData  cost: 42.5007ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 523.758ms
+Mod1 Point2 CalTrans And SaveData  cost: 48.7508ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2832.5435ms
+Mod1 Point4 GetCount  cost: 526.2581ms
+Mod1 Point4 CalTrans And SaveData  cost: 51.2508ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+tsta2  cost: 501.2577ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 1.25ms
+dest2  cost: 3226.2995ms
+CGhost Total Cost 2=3830.0588ms
+JPT Total Cost 2=6085.0934ms
+Total Cost 2=9915.1522ms
+################### Test2 End ####################
+dest1  cost: 5666.3371ms
+CGhost Total Cost 1=5866.3402ms
+JPT Total Cost 1=6603.8513ms
+Total Cost 1=12470.1915ms
+################### Test1 End ####################
+Rotatry  cost: 780.0119ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 505.0078ms
+barCode  cost: 990.0152ms
+Dark Test1  cost: 1077.5165ms
+YtoWhite  cost: 101.2515ms
+White Test2  cost: 502.5077ms
+InspectMod1Unit  cost: 2186.2835ms
+White Test1  cost: 516.2579ms
+Mod1 Point0 Motion  cost: 790.0122ms
+InspectMod2Unit  cost: 3281.3004ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 52.5008ms
+Mod1 Point2 Motion  cost: 201.253ms
+Mod1 Point2 GetCount  cost: 513.7579ms
+Mod1 Point2 CalTrans And SaveData  cost: 42.5007ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2828.7934ms
+Mod1 Point4 GetCount  cost: 515.0079ms
+Mod1 Point4 CalTrans And SaveData  cost: 43.7507ms
+finu2  cost: 102.5015ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 601.2593ms
+dest2  cost: 3206.2992ms
+CGhost Total Cost 2=3910.06ms
+JPT Total Cost 2=7117.6093ms
+Total Cost 2=11027.6693ms
+################### Test2 End ####################
+dest1  cost: 5731.338ms
+CGhost Total Cost 1=5831.3396ms
+JPT Total Cost 1=5553.835ms
+Total Cost 1=11385.1746ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 507.5078ms
+barCode  cost: 981.265ms
+Dark Test1  cost: 1096.2668ms
+YtoWhite  cost: 101.2515ms
+White Test2  cost: 503.7577ms
+White Test1  cost: 513.7579ms
+InspectMod2Unit  cost: 2280.035ms
+Mod1 Point0 Motion  cost: 801.2623ms
+InspectMod1Unit  cost: 3177.5488ms
+Mod1 Point0 GetCount  cost: 518.758ms
+Mod1 Point0 CalTrans And SaveData  cost: 40.0006ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 516.258ms
+Mod1 Point2 CalTrans And SaveData  cost: 47.5007ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2821.2934ms
+Mod1 Point4 GetCount  cost: 518.758ms
+Mod1 Point4 CalTrans And SaveData  cost: 43.7507ms
+finu2  cost: 102.5015ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 601.2593ms
+dest2  cost: 3230.0496ms
+CGhost Total Cost 2=3933.8104ms
+JPT Total Cost 2=6112.5939ms
+Total Cost 2=10046.4043ms
+################### Test2 End ####################
+dest1  cost: 5762.5885ms
+CGhost Total Cost 1=5862.5901ms
+JPT Total Cost 1=6552.6005ms
+Total Cost 1=12415.1906ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 620.0095ms
+barCode  cost: 986.2651ms
+Dark Test2  cost: 1012.5156ms
+YtoWhite  cost: 100.0015ms
+White Test1  cost: 517.508ms
+InspectMod2Unit  cost: 2233.7843ms
+White Test2  cost: 503.7578ms
+Mod1 Point0 Motion  cost: 800.0122ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 37.5006ms
+InspectMod1Unit  cost: 3190.049ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 518.758ms
+Mod1 Point2 CalTrans And SaveData  cost: 45.0006ms
+Mod1 Point4 Motion  cost: 200.003ms
+Mod1 Point4 GetCount  cost: 512.5079ms
+Mod1 Point4 CalTrans And SaveData  cost: 43.7507ms
+Spectrograph2  cost: 2833.7935ms
+ToOrigin  cost: 202.5031ms
+SendImageAdvance1  cost: 2.5001ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 0ms
+finu2  cost: 102.5016ms
+tsta2  cost: 501.2577ms
+dest1  cost: 3125.048ms
+CGhost Total Cost 1=3225.0495ms
+JPT Total Cost 1=6096.3437ms
+Total Cost 1=9321.3932ms
+################### Test1 End ####################
+dest2  cost: 5641.3367ms
+CGhost Total Cost 2=6245.096ms
+JPT Total Cost 2=6583.8512ms
+Total Cost 2=12828.9472ms
+################### Test2 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 500.0076ms
+barCode  cost: 992.5153ms
+Dark Test1  cost: 1121.2673ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 502.5077ms
+InspectMod2Unit  cost: 2235.0343ms
+White Test1  cost: 512.5078ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3127.5481ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 45.0007ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 512.5078ms
+Mod1 Point2 CalTrans And SaveData  cost: 42.5007ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2855.0439ms
+Mod1 Point4 GetCount  cost: 522.508ms
+Mod1 Point4 CalTrans And SaveData  cost: 43.7507ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.003ms
+SendImageAdvance1  cost: 2.5001ms
+tsta2  cost: 501.2577ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+dest2  cost: 3233.7997ms
+CGhost Total Cost 2=3837.559ms
+JPT Total Cost 2=6092.5935ms
+Total Cost 2=9930.1525ms
+################### Test2 End ####################
+dest1  cost: 5700.0875ms
+CGhost Total Cost 1=5900.0906ms
+JPT Total Cost 1=6536.3506ms
+Total Cost 1=12436.4412ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 503.7578ms
+barCode  cost: 981.2651ms
+Dark Test1  cost: 1101.2669ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 503.7578ms
+InspectMod1Unit  cost: 2185.0336ms
+White Test1  cost: 511.2578ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod2Unit  cost: 3283.8005ms
+Mod1 Point0 GetCount  cost: 518.758ms
+Mod1 Point0 CalTrans And SaveData  cost: 40.0006ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 525.0081ms
+Mod1 Point2 CalTrans And SaveData  cost: 46.2507ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2835.0435ms
+Mod1 Point4 GetCount  cost: 511.2578ms
+Mod1 Point4 CalTrans And SaveData  cost: 41.2507ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.2501ms
+tsta2  cost: 601.2592ms
+dest2  cost: 3280.0504ms
+CGhost Total Cost 2=3983.8112ms
+JPT Total Cost 2=7126.3596ms
+Total Cost 2=11110.1708ms
+################### Test2 End ####################
+dest1  cost: 5815.0893ms
+CGhost Total Cost 1=5915.0908ms
+JPT Total Cost 1=5562.5855ms
+Total Cost 1=11477.6763ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 507.5078ms
+barCode  cost: 992.5152ms
+Dark Test1  cost: 1135.0174ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 503.7577ms
+InspectMod1Unit  cost: 2137.5328ms
+White Test1  cost: 517.508ms
+Mod1 Point0 Motion  cost: 801.2623ms
+InspectMod2Unit  cost: 3291.3005ms
+Mod1 Point0 GetCount  cost: 518.7579ms
+Mod1 Point0 CalTrans And SaveData  cost: 46.2507ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 518.7579ms
+Mod1 Point2 CalTrans And SaveData  cost: 40.0006ms
+Mod1 Point4 Motion  cost: 200.003ms
+Spectrograph2  cost: 2832.5435ms
+Mod1 Point4 GetCount  cost: 518.758ms
+Mod1 Point4 CalTrans And SaveData  cost: 48.7507ms
+finu2  cost: 402.5062ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3218.7994ms
+CGhost Total Cost 2=4122.5633ms
+JPT Total Cost 2=7135.1095ms
+Total Cost 2=11257.6728ms
+################### Test2 End ####################
+dest1  cost: 5973.8418ms
+CGhost Total Cost 1=6073.8433ms
+JPT Total Cost 1=5565.0854ms
+Total Cost 1=11638.9287ms
+################### Test1 End ####################
+Rotatry  cost: 780.0119ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 502.5077ms
+barCode  cost: 992.5153ms
+Dark Test1  cost: 1110.0171ms
+YtoWhite  cost: 101.2516ms
+White Test2  cost: 503.7577ms
+InspectMod1Unit  cost: 2133.7828ms
+White Test1  cost: 517.5079ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod2Unit  cost: 3280.0504ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 42.5006ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 523.7581ms
+Mod1 Point2 CalTrans And SaveData  cost: 40.0006ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2831.2935ms
+Mod1 Point4 GetCount  cost: 525.008ms
+Mod1 Point4 CalTrans And SaveData  cost: 38.7506ms
+finu2  cost: 102.5015ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 602.5093ms
+dest2  cost: 3300.0507ms
+CGhost Total Cost 2=4005.0615ms
+JPT Total Cost 2=7117.6093ms
+Total Cost 2=11122.6708ms
+################### Test2 End ####################
+dest1  cost: 5818.8394ms
+CGhost Total Cost 1=5918.841ms
+JPT Total Cost 1=5537.585ms
+Total Cost 1=11456.426ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 621.2596ms
+barCode  cost: 997.5153ms
+Dark Test2  cost: 1005.0154ms
+YtoWhite  cost: 100.0015ms
+White Test1  cost: 517.508ms
+InspectMod2Unit  cost: 2243.7845ms
+White Test2  cost: 506.2577ms
+Mod1 Point0 Motion  cost: 790.0121ms
+Mod1 Point0 GetCount  cost: 510.0079ms
+Mod1 Point0 CalTrans And SaveData  cost: 52.5008ms
+InspectMod1Unit  cost: 3202.5492ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 516.2579ms
+Mod1 Point2 CalTrans And SaveData  cost: 28.7504ms
+Mod1 Point4 Motion  cost: 201.253ms
+Mod1 Point4 GetCount  cost: 517.508ms
+Mod1 Point4 CalTrans And SaveData  cost: 30.0005ms
+Spectrograph2  cost: 2857.5438ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 1.25ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+finu2  cost: 102.5015ms
+tsta2  cost: 501.2577ms
+dest1  cost: 3145.0483ms
+CGhost Total Cost 1=3245.0499ms
+JPT Total Cost 1=6121.3441ms
+Total Cost 1=9366.394ms
+################### Test1 End ####################
+dest2  cost: 5568.8356ms
+CGhost Total Cost 2=6172.5948ms
+JPT Total Cost 2=6612.6014ms
+Total Cost 2=12785.1962ms
+################### Test2 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 505.0077ms
+barCode  cost: 990.0152ms
+Dark Test1  cost: 1103.767ms
+YtoWhite  cost: 101.2516ms
+White Test2  cost: 503.7577ms
+InspectMod2Unit  cost: 2241.2844ms
+White Test1  cost: 517.5079ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3143.7983ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 43.7507ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 513.7579ms
+Mod1 Point2 CalTrans And SaveData  cost: 52.5008ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2831.2935ms
+Mod1 Point4 GetCount  cost: 522.5081ms
+Mod1 Point4 CalTrans And SaveData  cost: 37.5005ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 601.2593ms
+dest2  cost: 3225.0495ms
+CGhost Total Cost 2=3928.8104ms
+JPT Total Cost 2=6081.3433ms
+Total Cost 2=10010.1537ms
+################### Test2 End ####################
+dest1  cost: 5768.8386ms
+CGhost Total Cost 1=5868.8402ms
+JPT Total Cost 1=6538.8504ms
+Total Cost 1=12407.6906ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 507.5078ms
+barCode  cost: 996.2653ms
+Dark Test1  cost: 1125.0173ms
+YtoWhite  cost: 101.2516ms
+White Test2  cost: 503.7577ms
+InspectMod2Unit  cost: 2246.2845ms
+White Test1  cost: 513.7578ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3141.2983ms
+Mod1 Point0 GetCount  cost: 510.0079ms
+Mod1 Point0 CalTrans And SaveData  cost: 41.2506ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 517.5079ms
+Mod1 Point2 CalTrans And SaveData  cost: 47.5008ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2862.544ms
+Mod1 Point4 GetCount  cost: 510.0078ms
+Mod1 Point4 CalTrans And SaveData  cost: 46.2507ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 500.0077ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 1301.27ms
+dest1  cost: 3246.2999ms
+CGhost Total Cost 1=3746.3076ms
+JPT Total Cost 1=6560.1007ms
+Total Cost 1=10306.4083ms
+################### Test1 End ####################
+dest2  cost: 6065.0931ms
+CGhost Total Cost 2=7468.8647ms
+JPT Total Cost 2=6120.094ms
+Total Cost 2=13588.9587ms
+################### Test2 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 616.2595ms
+barCode  cost: 985.0151ms
+Dark Test2  cost: 1006.2654ms
+YtoWhite  cost: 101.2516ms
+White Test1  cost: 517.5079ms
+InspectMod1Unit  cost: 2128.7827ms
+White Test2  cost: 502.5077ms
+Mod1 Point0 Motion  cost: 800.0123ms
+Mod1 Point0 GetCount  cost: 510.0078ms
+Mod1 Point0 CalTrans And SaveData  cost: 35.0006ms
+Mod1 Point2 Motion  cost: 200.0031ms
+InspectMod2Unit  cost: 3240.0497ms
+Mod1 Point2 GetCount  cost: 513.7579ms
+Mod1 Point2 CalTrans And SaveData  cost: 31.2504ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Mod1 Point4 GetCount  cost: 515.0079ms
+Mod1 Point4 CalTrans And SaveData  cost: 37.5005ms
+Spectrograph2  cost: 2832.5435ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 1.25ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.2501ms
+finu2  cost: 102.5016ms
+tsta2  cost: 502.5077ms
+dest1  cost: 3140.0482ms
+CGhost Total Cost 1=3240.0497ms
+JPT Total Cost 1=5030.0773ms
+Total Cost 1=8270.127ms
+################### Test1 End ####################
+dest2  cost: 5601.336ms
+CGhost Total Cost 2=6206.3453ms
+JPT Total Cost 2=7581.3663ms
+Total Cost 2=13787.7116ms
+################### Test2 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 508.7578ms
+barCode  cost: 988.7652ms
+Dark Test1  cost: 1108.767ms
+YtoWhite  cost: 101.2516ms
+White Test2  cost: 503.7578ms
+InspectMod1Unit  cost: 2081.2819ms
+White Test1  cost: 511.2578ms
+Mod1 Point0 Motion  cost: 801.2624ms
+InspectMod2Unit  cost: 3223.7995ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 45.0007ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 522.508ms
+Mod1 Point2 CalTrans And SaveData  cost: 47.5007ms
+Mod1 Point4 Motion  cost: 200.003ms
+Spectrograph2  cost: 2856.2938ms
+Mod1 Point4 GetCount  cost: 518.758ms
+Mod1 Point4 CalTrans And SaveData  cost: 45.0007ms
+finu2  cost: 102.5015ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+tsta2  cost: 502.5078ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+dest2  cost: 3220.0494ms
+CGhost Total Cost 2=3825.0587ms
+JPT Total Cost 2=7092.6089ms
+Total Cost 2=10917.6676ms
+################### Test2 End ####################
+dest1  cost: 5662.587ms
+CGhost Total Cost 1=5862.5901ms
+JPT Total Cost 1=5472.5839ms
+Total Cost 1=11335.174ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 508.7578ms
+barCode  cost: 991.2653ms
+Dark Test1  cost: 1131.2674ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 503.7578ms
+InspectMod2Unit  cost: 2232.5343ms
+White Test1  cost: 516.2579ms
+Mod1 Point0 Motion  cost: 801.2623ms
+InspectMod1Unit  cost: 3181.2988ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 52.5008ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 513.7579ms
+Mod1 Point2 CalTrans And SaveData  cost: 42.5006ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2850.0438ms
+Mod1 Point4 GetCount  cost: 515.008ms
+Mod1 Point4 CalTrans And SaveData  cost: 43.7506ms
+finu2  cost: 102.5015ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5001ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 602.5093ms
+dest2  cost: 3233.7997ms
+CGhost Total Cost 2=3938.8105ms
+JPT Total Cost 2=6095.0937ms
+Total Cost 2=10033.9042ms
+################### Test2 End ####################
+dest1  cost: 5801.3391ms
+CGhost Total Cost 1=5901.3406ms
+JPT Total Cost 1=6603.8515ms
+Total Cost 1=12505.1921ms
+################### Test1 End ####################
+Rotatry  cost: 780.0119ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 501.2577ms
+barCode  cost: 985.0152ms
+Dark Test1  cost: 1097.5169ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 501.2577ms
+InspectMod2Unit  cost: 2236.2843ms
+White Test1  cost: 513.7579ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3138.7982ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 51.2507ms
+Mod1 Point2 Motion  cost: 200.003ms
+Mod1 Point2 GetCount  cost: 525.0081ms
+Mod1 Point2 CalTrans And SaveData  cost: 42.5007ms
+Mod1 Point4 Motion  cost: 200.003ms
+Spectrograph2  cost: 2837.5436ms
+Mod1 Point4 GetCount  cost: 525.0081ms
+Mod1 Point4 CalTrans And SaveData  cost: 51.2508ms
+finu2  cost: 202.5031ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3217.5494ms
+CGhost Total Cost 2=3921.3102ms
+JPT Total Cost 2=6076.3433ms
+Total Cost 2=9997.6535ms
+################### Test2 End ####################
+dest1  cost: 5747.5883ms
+CGhost Total Cost 1=5847.5898ms
+JPT Total Cost 1=6518.8501ms
+Total Cost 1=12366.4399ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 622.5096ms
+barCode  cost: 1017.5156ms
+Dark Test2  cost: 1011.2656ms
+YtoWhite  cost: 100.0015ms
+White Test1  cost: 517.5079ms
+InspectMod1Unit  cost: 2161.2832ms
+White Test2  cost: 508.7578ms
+Mod1 Point0 Motion  cost: 801.2624ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 36.2506ms
+Mod1 Point2 Motion  cost: 200.0031ms
+InspectMod2Unit  cost: 3325.0511ms
+Mod1 Point2 GetCount  cost: 510.0078ms
+Mod1 Point2 CalTrans And SaveData  cost: 43.7507ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Mod1 Point4 GetCount  cost: 513.7579ms
+Mod1 Point4 CalTrans And SaveData  cost: 40.0006ms
+Spectrograph2  cost: 2832.5435ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5001ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.25ms
+finu2  cost: 102.5015ms
+tsta2  cost: 501.2577ms
+dest1  cost: 3122.548ms
+CGhost Total Cost 1=3222.5495ms
+JPT Total Cost 1=5102.5784ms
+Total Cost 1=8325.1279ms
+################### Test1 End ####################
+dest2  cost: 5611.3362ms
+CGhost Total Cost 2=6215.0954ms
+JPT Total Cost 2=7677.618ms
+Total Cost 2=13892.7134ms
+################### Test2 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 507.5078ms
+barCode  cost: 983.7652ms
+Dark Test1  cost: 1120.0172ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 503.7578ms
+White Test1  cost: 513.7579ms
+InspectMod2Unit  cost: 2232.5343ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3138.7983ms
+Mod1 Point0 GetCount  cost: 510.0078ms
+Mod1 Point0 CalTrans And SaveData  cost: 36.2505ms
+Mod1 Point2 Motion  cost: 200.003ms
+Mod1 Point2 GetCount  cost: 512.5079ms
+Mod1 Point2 CalTrans And SaveData  cost: 48.7508ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2841.2936ms
+Mod1 Point4 GetCount  cost: 517.5079ms
+Mod1 Point4 CalTrans And SaveData  cost: 46.2507ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+tsta2  cost: 502.5077ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+dest2  cost: 3208.7993ms
+CGhost Total Cost 2=3813.8086ms
+JPT Total Cost 2=6085.0935ms
+Total Cost 2=9898.9021ms
+################### Test2 End ####################
+dest1  cost: 5642.5867ms
+CGhost Total Cost 1=5842.5898ms
+JPT Total Cost 1=6538.8506ms
+Total Cost 1=12381.4404ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 617.5095ms
+barCode  cost: 985.0151ms
+Dark Test2  cost: 1010.0155ms
+YtoWhite  cost: 101.2515ms
+White Test1  cost: 517.508ms
+InspectMod1Unit  cost: 2136.2828ms
+White Test2  cost: 505.0077ms
+Mod1 Point0 Motion  cost: 800.0123ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 40.0006ms
+InspectMod2Unit  cost: 3245.0498ms
+Mod1 Point2 Motion  cost: 200.003ms
+Mod1 Point2 GetCount  cost: 517.508ms
+Mod1 Point2 CalTrans And SaveData  cost: 30.0005ms
+Mod1 Point4 Motion  cost: 200.003ms
+Mod1 Point4 GetCount  cost: 518.758ms
+Mod1 Point4 CalTrans And SaveData  cost: 32.5005ms
+Spectrograph2  cost: 2850.0438ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 1.25ms
+finu2  cost: 102.5016ms
+finu1  cost: 900.0138ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 602.5093ms
+dest1  cost: 3361.3016ms
+CGhost Total Cost 1=4261.3154ms
+JPT Total Cost 1=5037.5774ms
+Total Cost 1=9298.8928ms
+################### Test1 End ####################
+dest2  cost: 6015.0924ms
+CGhost Total Cost 2=6720.1033ms
+JPT Total Cost 2=7610.1168ms
+Total Cost 2=14330.2201ms
+################### Test2 End ####################
+Rotatry  cost: 780.0119ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 615.0094ms
+barCode  cost: 991.2653ms
+Dark Test2  cost: 982.5151ms
+YtoWhite  cost: 101.2515ms
+White Test1  cost: 517.508ms
+InspectMod1Unit  cost: 2136.2828ms
+White Test2  cost: 503.7578ms
+Mod1 Point0 Motion  cost: 800.0123ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 36.2506ms
+InspectMod2Unit  cost: 3243.7998ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 511.2578ms
+Mod1 Point2 CalTrans And SaveData  cost: 41.2507ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Mod1 Point4 GetCount  cost: 523.758ms
+Mod1 Point4 CalTrans And SaveData  cost: 50.0008ms
+Spectrograph2  cost: 2831.2935ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5001ms
+finu1  cost: 400.0061ms
+SendAdvanTestResult1  cost: 1.25ms
+finu2  cost: 102.5016ms
+tsta2  cost: 503.7577ms
+dest1  cost: 3150.0484ms
+CGhost Total Cost 1=3550.0545ms
+JPT Total Cost 1=5043.8275ms
+Total Cost 1=8593.882ms
+################### Test1 End ####################
+dest2  cost: 5645.0867ms
+CGhost Total Cost 2=6251.346ms
+JPT Total Cost 2=7561.3662ms
+Total Cost 2=13812.7122ms
+################### Test2 End ####################
+Rotatry  cost: 780.0119ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 506.2578ms
+barCode  cost: 992.5153ms
+Dark Test1  cost: 1112.5171ms
+YtoWhite  cost: 101.2515ms
+White Test2  cost: 503.7577ms
+White Test1  cost: 513.7579ms
+InspectMod2Unit  cost: 2282.5351ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3198.7991ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 47.5007ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 510.0078ms
+Mod1 Point2 CalTrans And SaveData  cost: 42.5007ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2832.5435ms
+Mod1 Point4 GetCount  cost: 513.7579ms
+Mod1 Point4 CalTrans And SaveData  cost: 50.0008ms
+finu2  cost: 102.5015ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 2.5ms
+tsta2  cost: 602.5093ms
+dest2  cost: 3210.0493ms
+CGhost Total Cost 2=3915.0601ms
+JPT Total Cost 2=6125.0941ms
+Total Cost 2=10040.1542ms
+################### Test2 End ####################
+dest1  cost: 5735.0881ms
+CGhost Total Cost 1=5835.0897ms
+JPT Total Cost 1=6602.6013ms
+Total Cost 1=12437.691ms
+################### Test1 End ####################
+Rotatry  cost: 780.0119ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 508.7578ms
+barCode  cost: 996.2653ms
+Dark Test1  cost: 1135.0174ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 501.2577ms
+InspectMod2Unit  cost: 2282.535ms
+White Test1  cost: 515.0079ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3177.5488ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 50.0008ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 518.758ms
+Mod1 Point2 CalTrans And SaveData  cost: 53.7508ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2840.0436ms
+Mod1 Point4 GetCount  cost: 521.258ms
+Mod1 Point4 CalTrans And SaveData  cost: 56.2509ms
+finu2  cost: 402.5062ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.2501ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3225.0495ms
+CGhost Total Cost 2=4128.8134ms
+JPT Total Cost 2=6132.5941ms
+Total Cost 2=10261.4075ms
+################### Test2 End ####################
+dest1  cost: 5961.3416ms
+CGhost Total Cost 1=6061.3431ms
+JPT Total Cost 1=6607.6014ms
+Total Cost 1=12668.9445ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 618.7595ms
+barCode  cost: 982.5151ms
+Dark Test2  cost: 1015.0156ms
+YtoWhite  cost: 100.0015ms
+White Test1  cost: 517.5079ms
+InspectMod2Unit  cost: 2243.7845ms
+White Test2  cost: 507.5078ms
+Mod1 Point0 Motion  cost: 800.0123ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 37.5006ms
+InspectMod1Unit  cost: 3157.5485ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 510.0078ms
+Mod1 Point2 CalTrans And SaveData  cost: 28.7504ms
+Mod1 Point4 Motion  cost: 200.003ms
+Mod1 Point4 GetCount  cost: 517.508ms
+Mod1 Point4 CalTrans And SaveData  cost: 32.5005ms
+Spectrograph2  cost: 2832.5435ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5001ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.25ms
+finu2  cost: 102.5016ms
+tsta2  cost: 503.7577ms
+dest1  cost: 3140.0482ms
+CGhost Total Cost 1=3240.0497ms
+JPT Total Cost 1=6060.0931ms
+Total Cost 1=9300.1428ms
+################### Test1 End ####################
+dest2  cost: 5600.0861ms
+CGhost Total Cost 2=6206.3454ms
+JPT Total Cost 2=6598.8514ms
+Total Cost 2=12805.1968ms
+################### Test2 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 506.2577ms
+barCode  cost: 991.2652ms
+Dark Test1  cost: 1122.5173ms
+YtoWhite  cost: 101.2515ms
+White Test2  cost: 503.7577ms
+White Test1  cost: 510.0079ms
+InspectMod2Unit  cost: 2236.2843ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3177.5488ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 47.5007ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 518.7579ms
+Mod1 Point2 CalTrans And SaveData  cost: 50.0008ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2825.0434ms
+Mod1 Point4 GetCount  cost: 516.2579ms
+Mod1 Point4 CalTrans And SaveData  cost: 46.2507ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 400.0062ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 1301.27ms
+dest1  cost: 3137.5481ms
+CGhost Total Cost 1=3537.5543ms
+JPT Total Cost 1=6583.8512ms
+Total Cost 1=10121.4055ms
+################### Test1 End ####################
+dest2  cost: 5977.5918ms
+CGhost Total Cost 2=7381.3634ms
+JPT Total Cost 2=6071.3431ms
+Total Cost 2=13452.7065ms
+################### Test2 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 507.5078ms
+barCode  cost: 987.5151ms
+Dark Test1  cost: 1110.0171ms
+YtoWhite  cost: 101.2516ms
+White Test2  cost: 502.5078ms
+InspectMod1Unit  cost: 2135.0328ms
+White Test1  cost: 510.0078ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod2Unit  cost: 3232.5497ms
+Mod1 Point0 GetCount  cost: 510.0078ms
+Mod1 Point0 CalTrans And SaveData  cost: 46.2508ms
+Mod1 Point2 Motion  cost: 200.003ms
+Mod1 Point2 GetCount  cost: 521.2581ms
+Mod1 Point2 CalTrans And SaveData  cost: 46.2507ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2850.0437ms
+Mod1 Point4 GetCount  cost: 518.7579ms
+Mod1 Point4 CalTrans And SaveData  cost: 42.5007ms
+finu2  cost: 102.5015ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 602.5093ms
+dest2  cost: 3231.2996ms
+CGhost Total Cost 2=3936.3104ms
+JPT Total Cost 2=7092.609ms
+Total Cost 2=11028.9194ms
+################### Test2 End ####################
+dest1  cost: 5763.8385ms
+CGhost Total Cost 1=5863.8401ms
+JPT Total Cost 1=5526.3348ms
+Total Cost 1=11390.1749ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 501.2577ms
+barCode  cost: 990.0152ms
+Dark Test1  cost: 1122.5172ms
+YtoWhite  cost: 101.2516ms
+White Test2  cost: 503.7578ms
+InspectMod2Unit  cost: 2227.5343ms
+White Test1  cost: 517.5079ms
+Mod1 Point0 Motion  cost: 790.0121ms
+InspectMod1Unit  cost: 3132.5481ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 40.0007ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 517.5079ms
+Mod1 Point2 CalTrans And SaveData  cost: 41.2507ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2831.2935ms
+Mod1 Point4 GetCount  cost: 515.0079ms
+Mod1 Point4 CalTrans And SaveData  cost: 42.5006ms
+finu2  cost: 402.5062ms
+ToOrigin  cost: 200.003ms
+SendImageAdvance1  cost: 2.5001ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 601.2592ms
+dest2  cost: 3232.5497ms
+CGhost Total Cost 2=4236.3151ms
+JPT Total Cost 2=6063.8433ms
+Total Cost 2=10300.1584ms
+################### Test2 End ####################
+dest1  cost: 6050.0929ms
+CGhost Total Cost 1=6150.0944ms
+JPT Total Cost 1=6545.1005ms
+Total Cost 1=12695.1949ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 507.5078ms
+barCode  cost: 990.0152ms
+Dark Test1  cost: 1106.267ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 502.5077ms
+InspectMod2Unit  cost: 2233.7843ms
+White Test1  cost: 508.7579ms
+Mod1 Point0 Motion  cost: 801.2623ms
+InspectMod1Unit  cost: 3180.0489ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 48.7508ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 526.2581ms
+Mod1 Point2 CalTrans And SaveData  cost: 50.0007ms
+Mod1 Point4 Motion  cost: 200.003ms
+Spectrograph2  cost: 2857.5439ms
+Mod1 Point4 GetCount  cost: 526.2581ms
+Mod1 Point4 CalTrans And SaveData  cost: 46.2507ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.2501ms
+tsta2  cost: 601.2592ms
+dest2  cost: 3213.7994ms
+CGhost Total Cost 2=3917.5602ms
+JPT Total Cost 2=6101.3437ms
+Total Cost 2=10018.9039ms
+################### Test2 End ####################
+dest1  cost: 5750.0883ms
+CGhost Total Cost 1=5850.0898ms
+JPT Total Cost 1=6568.8511ms
+Total Cost 1=12418.9409ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 616.2595ms
+barCode  cost: 985.0151ms
+Dark Test2  cost: 1011.2655ms
+YtoWhite  cost: 100.0016ms
+White Test1  cost: 517.5079ms
+InspectMod2Unit  cost: 2240.0344ms
+White Test2  cost: 500.0077ms
+Mod1 Point0 Motion  cost: 801.2623ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 32.5005ms
+InspectMod1Unit  cost: 3151.2984ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 515.0079ms
+Mod1 Point2 CalTrans And SaveData  cost: 32.5005ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Mod1 Point4 GetCount  cost: 516.2579ms
+Mod1 Point4 CalTrans And SaveData  cost: 27.5004ms
+Spectrograph2  cost: 2848.7937ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 1.25ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+finu2  cost: 102.5015ms
+tsta2  cost: 502.5078ms
+dest1  cost: 3122.548ms
+CGhost Total Cost 1=3222.5496ms
+JPT Total Cost 1=6052.5929ms
+Total Cost 1=9275.1425ms
+################### Test1 End ####################
+dest2  cost: 5560.0854ms
+CGhost Total Cost 2=6165.0947ms
+JPT Total Cost 2=6600.1013ms
+Total Cost 2=12765.196ms
+################### Test2 End ####################
+Rotatry  cost: 780.0119ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 508.7578ms
+barCode  cost: 990.0152ms
+Dark Test1  cost: 1111.267ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 502.5077ms
+InspectMod2Unit  cost: 2242.5345ms
+White Test1  cost: 513.7579ms
+Mod1 Point0 Motion  cost: 801.2623ms
+InspectMod1Unit  cost: 3122.548ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 48.7507ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 517.508ms
+Mod1 Point2 CalTrans And SaveData  cost: 52.5008ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2856.2939ms
+Mod1 Point4 GetCount  cost: 513.7579ms
+Mod1 Point4 CalTrans And SaveData  cost: 45.0007ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 1.2501ms
+finu1  cost: 500.0076ms
+SendAdvanTestResult1  cost: 1.2501ms
+tsta2  cost: 1302.52ms
+dest1  cost: 3222.5495ms
+CGhost Total Cost 1=3722.5571ms
+JPT Total Cost 1=6520.1002ms
+Total Cost 1=10242.6573ms
+################### Test1 End ####################
+dest2  cost: 6065.0931ms
+CGhost Total Cost 2=7470.1147ms
+JPT Total Cost 2=6110.0939ms
+Total Cost 2=13580.2086ms
+################### Test2 End ####################
+Rotatry  cost: 780.0119ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 508.7579ms
+barCode  cost: 983.7651ms
+Dark Test1  cost: 1117.5172ms
+YtoWhite  cost: 101.2516ms
+White Test2  cost: 503.7578ms
+InspectMod1Unit  cost: 2136.2828ms
+White Test1  cost: 516.2579ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod2Unit  cost: 3231.2996ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 50.0008ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 516.2579ms
+Mod1 Point2 CalTrans And SaveData  cost: 47.5008ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2830.0434ms
+Mod1 Point4 GetCount  cost: 518.7579ms
+Mod1 Point4 CalTrans And SaveData  cost: 46.2507ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 1.25ms
+tsta2  cost: 501.2577ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 0ms
+dest2  cost: 3227.5496ms
+CGhost Total Cost 2=3831.3089ms
+JPT Total Cost 2=7073.8587ms
+Total Cost 2=10905.1676ms
+################### Test2 End ####################
+dest1  cost: 5652.5868ms
+CGhost Total Cost 1=5752.5883ms
+JPT Total Cost 1=5535.0849ms
+Total Cost 1=11287.6732ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 622.5096ms
+barCode  cost: 992.5152ms
+Dark Test2  cost: 1015.0156ms
+YtoWhite  cost: 100.0016ms
+White Test1  cost: 517.5079ms
+InspectMod1Unit  cost: 2128.7827ms
+White Test2  cost: 507.5078ms
+Mod1 Point0 Motion  cost: 801.2623ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 30.0004ms
+InspectMod2Unit  cost: 3285.0504ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 516.258ms
+Mod1 Point2 CalTrans And SaveData  cost: 28.7504ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Mod1 Point4 GetCount  cost: 518.758ms
+Mod1 Point4 CalTrans And SaveData  cost: 30.0004ms
+Spectrograph2  cost: 2843.7936ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 1.25ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.2501ms
+finu2  cost: 102.5015ms
+tsta2  cost: 501.2577ms
+dest1  cost: 3152.5484ms
+CGhost Total Cost 1=3252.5499ms
+JPT Total Cost 1=5043.8275ms
+Total Cost 1=8296.3774ms
+################### Test1 End ####################
+dest2  cost: 5646.3368ms
+CGhost Total Cost 2=6250.096ms
+JPT Total Cost 2=7651.3674ms
+Total Cost 2=13901.4634ms
+################### Test2 End ####################
+barCode  cost: 142.5022ms
+Rotatry  cost: 780.012ms
+barCode  cost: 172.5026ms
+InspectMod2Unit  cost: 1463.7725ms
+InspectMod1Unit  cost: 2402.5369ms
+Rotatry  cost: 780.012ms
+rcst1  cost: 6.2501ms
+rcst2  cost: 11.2501ms
+Dark Test2  cost: 502.5077ms
+Dark Test1  cost: 1132.5174ms
+InspectMod1Unit  cost: 1350.0207ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 505.0077ms
+White Test1  cost: 512.5079ms
+InspectMod2Unit  cost: 2460.0378ms
+Mod1 Point0 Motion  cost: 805.0124ms
+Mod1 Point0 GetCount  cost: 515.0079ms
+Mod1 Point0 CalTrans And SaveData  cost: 42.5006ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 513.7579ms
+Mod1 Point2 CalTrans And SaveData  cost: 52.5008ms
+Mod1 Point4 Motion  cost: 200.003ms
+Spectrograph2  cost: 2838.7937ms
+Mod1 Point4 GetCount  cost: 515.008ms
+Mod1 Point4 CalTrans And SaveData  cost: 56.2508ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5001ms
+tsta2  cost: 501.2577ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.25ms
+dest2  cost: 3231.2996ms
+CGhost Total Cost 2=3846.309ms
+JPT Total Cost 2=7770.1194ms
+Total Cost 2=11616.4284ms
+################### Test2 End ####################
+dest1  cost: 5681.3373ms
+CGhost Total Cost 1=5787.5889ms
+JPT Total Cost 1=7276.3618ms
+Total Cost 1=13063.9507ms
+################### Test1 End ####################
+barCode  cost: 142.5022ms
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+barCode  cost: 133.752ms
+Dark Test2  cost: 501.2577ms
+Dark Test1  cost: 1106.267ms
+InspectMod2Unit  cost: 1468.7725ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 505.0077ms
+White Test1  cost: 512.5079ms
+InspectMod1Unit  cost: 2358.7862ms
+Mod1 Point0 Motion  cost: 801.2623ms
+Mod1 Point0 GetCount  cost: 518.758ms
+Mod1 Point0 CalTrans And SaveData  cost: 41.2506ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 523.758ms
+Mod1 Point2 CalTrans And SaveData  cost: 47.5008ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2840.0436ms
+Mod1 Point4 GetCount  cost: 526.2581ms
+Mod1 Point4 CalTrans And SaveData  cost: 47.5007ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+tsta2  cost: 502.5077ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 1.25ms
+dest2  cost: 3235.0497ms
+CGhost Total Cost 2=3840.059ms
+JPT Total Cost 2=5315.0815ms
+Total Cost 2=9155.1405ms
+################### Test2 End ####################
+dest1  cost: 5702.5876ms
+CGhost Total Cost 1=5902.5907ms
+JPT Total Cost 1=5037.5773ms
+Total Cost 1=10940.168ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 507.5078ms
+barCode  cost: 987.5151ms
+Dark Test1  cost: 1103.7669ms
+YtoWhite  cost: 101.2515ms
+White Test2  cost: 503.7577ms
+White Test1  cost: 510.0079ms
+InspectMod2Unit  cost: 2223.7842ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3180.0489ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 38.7506ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 518.758ms
+Mod1 Point2 CalTrans And SaveData  cost: 47.5007ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2853.7938ms
+Mod1 Point4 GetCount  cost: 517.508ms
+Mod1 Point4 CalTrans And SaveData  cost: 48.7507ms
+finu2  cost: 102.5015ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5001ms
+tsta2  cost: 502.5078ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.25ms
+dest2  cost: 3223.7995ms
+CGhost Total Cost 2=3828.8088ms
+JPT Total Cost 2=6088.8435ms
+Total Cost 2=9917.6523ms
+################### Test2 End ####################
+dest1  cost: 5661.3369ms
+CGhost Total Cost 1=5761.3384ms
+JPT Total Cost 1=6565.1009ms
+Total Cost 1=12326.4393ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 500.0076ms
+barCode  cost: 992.5153ms
+Dark Test1  cost: 1127.5173ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 502.5077ms
+InspectMod1Unit  cost: 2143.783ms
+White Test1  cost: 511.2578ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod2Unit  cost: 3230.0496ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 48.7507ms
+Mod1 Point2 Motion  cost: 200.003ms
+Mod1 Point2 GetCount  cost: 517.508ms
+Mod1 Point2 CalTrans And SaveData  cost: 53.7508ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2831.2935ms
+Mod1 Point4 GetCount  cost: 513.7579ms
+Mod1 Point4 CalTrans And SaveData  cost: 42.5007ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+tsta2  cost: 502.5077ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 0ms
+dest2  cost: 3227.5496ms
+CGhost Total Cost 2=3832.5589ms
+JPT Total Cost 2=7063.8584ms
+Total Cost 2=10896.4173ms
+################### Test2 End ####################
+dest1  cost: 5673.8372ms
+CGhost Total Cost 1=5773.8388ms
+JPT Total Cost 1=5557.5854ms
+Total Cost 1=11331.4242ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 505.0078ms
+barCode  cost: 991.2652ms
+Dark Test1  cost: 1122.5172ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 503.7577ms
+InspectMod2Unit  cost: 2221.2841ms
+White Test1  cost: 511.2579ms
+Mod1 Point0 Motion  cost: 801.2623ms
+InspectMod1Unit  cost: 3150.0484ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 43.7507ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 513.7579ms
+Mod1 Point2 CalTrans And SaveData  cost: 50.0007ms
+Mod1 Point4 Motion  cost: 200.003ms
+Spectrograph2  cost: 2830.0435ms
+Mod1 Point4 GetCount  cost: 526.2581ms
+Mod1 Point4 CalTrans And SaveData  cost: 55.0009ms
+finu2  cost: 102.5015ms
+ToOrigin  cost: 200.003ms
+SendImageAdvance1  cost: 2.5001ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 602.5093ms
+dest2  cost: 3221.2995ms
+CGhost Total Cost 2=3926.3103ms
+JPT Total Cost 2=6060.0931ms
+Total Cost 2=9986.4034ms
+################### Test2 End ####################
+dest1  cost: 5801.3391ms
+CGhost Total Cost 1=5901.3406ms
+JPT Total Cost 1=6558.8508ms
+Total Cost 1=12460.1914ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 510.0079ms
+barCode  cost: 991.2652ms
+Dark Test1  cost: 1133.7674ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 503.7578ms
+InspectMod1Unit  cost: 2117.5326ms
+White Test1  cost: 517.5079ms
+Mod1 Point0 Motion  cost: 791.2622ms
+InspectMod2Unit  cost: 3205.0492ms
+Mod1 Point0 GetCount  cost: 518.758ms
+Mod1 Point0 CalTrans And SaveData  cost: 48.7507ms
+Mod1 Point2 Motion  cost: 200.003ms
+Mod1 Point2 GetCount  cost: 517.508ms
+Mod1 Point2 CalTrans And SaveData  cost: 51.2508ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2858.7939ms
+Mod1 Point4 GetCount  cost: 516.2579ms
+Mod1 Point4 CalTrans And SaveData  cost: 45.0007ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.2501ms
+tsta2  cost: 602.5092ms
+dest2  cost: 3231.2997ms
+CGhost Total Cost 2=3936.3105ms
+JPT Total Cost 2=7077.6088ms
+Total Cost 2=11013.9193ms
+################### Test2 End ####################
+dest1  cost: 5760.0885ms
+CGhost Total Cost 1=5860.09ms
+JPT Total Cost 1=5543.8352ms
+Total Cost 1=11403.9252ms
+################### Test1 End ####################
+Rotatry  cost: 780.0119ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 617.5094ms
+barCode  cost: 986.2652ms
+Dark Test2  cost: 1003.7654ms
+YtoWhite  cost: 101.2515ms
+White Test1  cost: 517.508ms
+InspectMod1Unit  cost: 2171.2834ms
+White Test2  cost: 507.5077ms
+Mod1 Point0 Motion  cost: 800.0123ms
+Mod1 Point0 GetCount  cost: 510.0078ms
+Mod1 Point0 CalTrans And SaveData  cost: 35.0005ms
+InspectMod2Unit  cost: 3272.5502ms
+Mod1 Point2 Motion  cost: 201.253ms
+Mod1 Point2 GetCount  cost: 512.5079ms
+Mod1 Point2 CalTrans And SaveData  cost: 31.2505ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Mod1 Point4 GetCount  cost: 515.0079ms
+Mod1 Point4 CalTrans And SaveData  cost: 33.7505ms
+Spectrograph2  cost: 2848.7938ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 1.25ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+finu2  cost: 102.5016ms
+tsta2  cost: 502.5077ms
+dest1  cost: 3128.5502ms
+CGhost Total Cost 1=3228.5518ms
+JPT Total Cost 1=5075.0779ms
+Total Cost 1=8303.6297ms
+################### Test1 End ####################
+dest2  cost: 5542.3373ms
+CGhost Total Cost 2=6147.3466ms
+JPT Total Cost 2=7632.6171ms
+Total Cost 2=13779.9637ms
+################### Test2 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 507.5078ms
+barCode  cost: 993.7653ms
+Dark Test1  cost: 1096.2668ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 503.7577ms
+InspectMod1Unit  cost: 2126.2827ms
+White Test1  cost: 517.508ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod2Unit  cost: 3273.8003ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 46.2507ms
+Mod1 Point2 Motion  cost: 200.003ms
+Mod1 Point2 GetCount  cost: 520.008ms
+Mod1 Point2 CalTrans And SaveData  cost: 50.0008ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2838.7936ms
+Mod1 Point4 GetCount  cost: 525.0081ms
+Mod1 Point4 CalTrans And SaveData  cost: 50.0007ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+tsta2  cost: 502.5077ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.2501ms
+dest2  cost: 3226.2996ms
+CGhost Total Cost 2=3831.3089ms
+JPT Total Cost 2=7123.8594ms
+Total Cost 2=10955.1683ms
+################### Test2 End ####################
+dest1  cost: 5665.087ms
+CGhost Total Cost 1=5765.0885ms
+JPT Total Cost 1=5517.5849ms
+Total Cost 1=11282.6734ms
+################### Test1 End ####################
+Rotatry  cost: 780.0119ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 508.7578ms
+barCode  cost: 996.2653ms
+Dark Test1  cost: 1095.0168ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 501.2577ms
+InspectMod2Unit  cost: 2228.7842ms
+White Test1  cost: 512.5079ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3173.7987ms
+Mod1 Point0 GetCount  cost: 510.0078ms
+Mod1 Point0 CalTrans And SaveData  cost: 32.5005ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 515.0079ms
+Mod1 Point2 CalTrans And SaveData  cost: 47.5008ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2860.0439ms
+Mod1 Point4 GetCount  cost: 517.5079ms
+Mod1 Point4 CalTrans And SaveData  cost: 50.0008ms
+finu2  cost: 102.5015ms
+ToOrigin  cost: 200.003ms
+SendImageAdvance1  cost: 2.5001ms
+tsta2  cost: 501.2577ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 0ms
+dest2  cost: 3212.5494ms
+CGhost Total Cost 2=3816.3086ms
+JPT Total Cost 2=6098.8436ms
+Total Cost 2=9915.1522ms
+################### Test2 End ####################
+dest1  cost: 5638.8366ms
+CGhost Total Cost 1=5738.8381ms
+JPT Total Cost 1=6560.1007ms
+Total Cost 1=12298.9388ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 622.5096ms
+barCode  cost: 980.015ms
+Dark Test2  cost: 1015.0156ms
+YtoWhite  cost: 100.0015ms
+White Test1  cost: 518.758ms
+InspectMod1Unit  cost: 2115.0325ms
+White Test2  cost: 502.5077ms
+Mod1 Point0 Motion  cost: 790.7654ms
+Mod1 Point0 GetCount  cost: 518.2649ms
+Mod1 Point0 CalTrans And SaveData  cost: 39.0022ms
+InspectMod2Unit  cost: 3236.8199ms
+Mod1 Point2 Motion  cost: 200.0114ms
+Mod1 Point2 GetCount  cost: 517.259ms
+Mod1 Point2 CalTrans And SaveData  cost: 36.2506ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Mod1 Point4 GetCount  cost: 520.008ms
+Mod1 Point4 CalTrans And SaveData  cost: 55.0008ms
+Spectrograph2  cost: 2851.0652ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+finu2  cost: 102.5016ms
+tsta2  cost: 503.7577ms
+dest1  cost: 3136.2981ms
+CGhost Total Cost 1=3236.2997ms
+JPT Total Cost 1=5020.0771ms
+Total Cost 1=8256.3768ms
+################### Test1 End ####################
+dest2  cost: 5612.5862ms
+CGhost Total Cost 2=6218.8455ms
+JPT Total Cost 2=7605.4084ms
+Total Cost 2=13824.2539ms
+################### Test2 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 505.0078ms
+barCode  cost: 988.7652ms
+Dark Test1  cost: 1115.0171ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 503.7577ms
+White Test1  cost: 517.508ms
+InspectMod2Unit  cost: 2233.7843ms
+Mod1 Point0 Motion  cost: 800.0122ms
+InspectMod1Unit  cost: 3153.7985ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 48.7507ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 518.7579ms
+Mod1 Point2 CalTrans And SaveData  cost: 46.2507ms
+Mod1 Point4 Motion  cost: 201.253ms
+Spectrograph2  cost: 2828.7935ms
+Mod1 Point4 GetCount  cost: 511.2579ms
+Mod1 Point4 CalTrans And SaveData  cost: 40.0006ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 1.25ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 602.5092ms
+dest2  cost: 3226.3414ms
+CGhost Total Cost 2=3931.3522ms
+JPT Total Cost 2=6071.3433ms
+Total Cost 2=10002.6955ms
+################### Test2 End ####################
+dest1  cost: 5773.3674ms
+CGhost Total Cost 1=5873.369ms
+JPT Total Cost 1=6557.6008ms
+Total Cost 1=12430.9698ms
+################### Test1 End ####################
+Rotatry  cost: 780.0119ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 503.7577ms
+barCode  cost: 1006.2655ms
+Dark Test1  cost: 1122.5173ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 502.5077ms
+White Test1  cost: 517.5079ms
+InspectMod2Unit  cost: 2311.2855ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3222.5495ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 42.5007ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 513.7579ms
+Mod1 Point2 CalTrans And SaveData  cost: 45.0007ms
+Mod1 Point4 Motion  cost: 200.003ms
+Spectrograph2  cost: 2821.2933ms
+Mod1 Point4 GetCount  cost: 511.2579ms
+Mod1 Point4 CalTrans And SaveData  cost: 45.0007ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+tsta2  cost: 502.5077ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.25ms
+dest2  cost: 3230.0496ms
+CGhost Total Cost 2=3835.0589ms
+JPT Total Cost 2=6138.8442ms
+Total Cost 2=9973.9031ms
+################### Test2 End ####################
+dest1  cost: 5661.337ms
+CGhost Total Cost 1=5761.3385ms
+JPT Total Cost 1=6652.6021ms
+Total Cost 1=12413.9406ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 508.7579ms
+barCode  cost: 1008.7655ms
+Dark Test1  cost: 1101.2669ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 503.7578ms
+InspectMod1Unit  cost: 2241.2844ms
+White Test1  cost: 518.7579ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod2Unit  cost: 3376.3018ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 47.5007ms
+Mod1 Point2 Motion  cost: 200.003ms
+Mod1 Point2 GetCount  cost: 518.758ms
+Mod1 Point2 CalTrans And SaveData  cost: 42.5007ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2833.7935ms
+Mod1 Point4 GetCount  cost: 513.7579ms
+Mod1 Point4 CalTrans And SaveData  cost: 52.5008ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 1.25ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 601.2592ms
+dest2  cost: 3221.2995ms
+CGhost Total Cost 2=3925.0603ms
+JPT Total Cost 2=7222.611ms
+Total Cost 2=11147.6713ms
+################### Test2 End ####################
+dest1  cost: 5748.8383ms
+CGhost Total Cost 1=5848.8398ms
+JPT Total Cost 1=5651.3367ms
+Total Cost 1=11500.1765ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 506.2578ms
+barCode  cost: 992.5153ms
+Dark Test1  cost: 1085.0167ms
+YtoWhite  cost: 101.2516ms
+White Test2  cost: 501.2577ms
+InspectMod2Unit  cost: 2236.2843ms
+White Test1  cost: 517.5079ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3146.2983ms
+Mod1 Point0 GetCount  cost: 518.758ms
+Mod1 Point0 CalTrans And SaveData  cost: 55.0008ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 511.2578ms
+Mod1 Point2 CalTrans And SaveData  cost: 45.0007ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2846.2937ms
+Mod1 Point4 GetCount  cost: 513.7579ms
+Mod1 Point4 CalTrans And SaveData  cost: 40.0006ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 2.5ms
+tsta2  cost: 503.7577ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+dest2  cost: 3221.2995ms
+CGhost Total Cost 2=3827.5588ms
+JPT Total Cost 2=6090.0935ms
+Total Cost 2=9917.6523ms
+################### Test2 End ####################
+dest1  cost: 5663.837ms
+CGhost Total Cost 1=5863.8401ms
+JPT Total Cost 1=6523.8502ms
+Total Cost 1=12387.6903ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 503.7577ms
+barCode  cost: 991.2652ms
+Dark Test1  cost: 1126.2673ms
+YtoWhite  cost: 101.2515ms
+White Test2  cost: 503.7577ms
+InspectMod2Unit  cost: 2227.5342ms
+White Test1  cost: 518.758ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3127.548ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 41.2507ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 523.758ms
+Mod1 Point2 CalTrans And SaveData  cost: 47.5007ms
+Mod1 Point4 Motion  cost: 201.253ms
+Spectrograph2  cost: 2845.0437ms
+Mod1 Point4 GetCount  cost: 518.758ms
+Mod1 Point4 CalTrans And SaveData  cost: 55.0009ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 300.0046ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 802.5123ms
+dest2  cost: 3218.7995ms
+CGhost Total Cost 2=4123.8134ms
+JPT Total Cost 2=6080.0933ms
+Total Cost 2=10203.9067ms
+################### Test2 End ####################
+dest1  cost: 5965.0916ms
+CGhost Total Cost 1=6265.0962ms
+JPT Total Cost 1=6547.6005ms
+Total Cost 1=12812.6967ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 516.258ms
+barCode  cost: 987.5152ms
+Dark Test1  cost: 1085.0167ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 503.7578ms
+InspectMod2Unit  cost: 2218.7841ms
+White Test1  cost: 515.0079ms
+Mod1 Point0 Motion  cost: 800.0123ms
+InspectMod1Unit  cost: 3121.2979ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 41.2507ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 523.758ms
+Mod1 Point2 CalTrans And SaveData  cost: 46.2507ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2826.2934ms
+Mod1 Point4 GetCount  cost: 510.0078ms
+Mod1 Point4 CalTrans And SaveData  cost: 47.5007ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 201.253ms
+SendImageAdvance1  cost: 2.5001ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 602.5092ms
+dest2  cost: 3207.5493ms
+CGhost Total Cost 2=3912.5601ms
+JPT Total Cost 2=6065.0933ms
+Total Cost 2=9977.6534ms
+################### Test2 End ####################
+dest1  cost: 5735.0881ms
+CGhost Total Cost 1=5835.0896ms
+JPT Total Cost 1=6491.3498ms
+Total Cost 1=12326.4394ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 618.7595ms
+barCode  cost: 993.7653ms
+Dark Test2  cost: 1003.7654ms
+YtoWhite  cost: 100.0015ms
+White Test1  cost: 518.758ms
+InspectMod2Unit  cost: 2215.034ms
+White Test2  cost: 506.2577ms
+Mod1 Point0 Motion  cost: 800.0123ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 33.7506ms
+InspectMod1Unit  cost: 3170.0487ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 522.508ms
+Mod1 Point2 CalTrans And SaveData  cost: 48.7507ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Mod1 Point4 GetCount  cost: 526.258ms
+Mod1 Point4 CalTrans And SaveData  cost: 52.5008ms
+Spectrograph2  cost: 2838.7936ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 0ms
+finu2  cost: 102.5015ms
+tsta2  cost: 501.2577ms
+dest1  cost: 3116.2979ms
+CGhost Total Cost 1=3216.2995ms
+JPT Total Cost 1=6083.8435ms
+Total Cost 1=9300.143ms
+################### Test1 End ####################
+dest2  cost: 5635.0866ms
+CGhost Total Cost 2=6238.8458ms
+JPT Total Cost 2=6563.8507ms
+Total Cost 2=12802.6965ms
+################### Test2 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 500.0077ms
+barCode  cost: 982.5151ms
+Dark Test1  cost: 1106.2669ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 503.7577ms
+InspectMod2Unit  cost: 2271.2849ms
+White Test1  cost: 510.0078ms
+Mod1 Point0 Motion  cost: 791.2777ms
+InspectMod1Unit  cost: 3186.0701ms
+Mod1 Point0 GetCount  cost: 518.0296ms
+Mod1 Point0 CalTrans And SaveData  cost: 42.0024ms
+Mod1 Point2 Motion  cost: 200.0114ms
+Mod1 Point2 GetCount  cost: 515.0295ms
+Mod1 Point2 CalTrans And SaveData  cost: 51.0029ms
+Mod1 Point4 Motion  cost: 200.0115ms
+Spectrograph2  cost: 2829.6308ms
+Mod1 Point4 GetCount  cost: 516.0295ms
+Mod1 Point4 CalTrans And SaveData  cost: 43.0024ms
+finu2  cost: 103.0059ms
+ToOrigin  cost: 200.0114ms
+SendImageAdvance1  cost: 3.0002ms
+tsta2  cost: 502.5275ms
+finu1  cost: 200.2557ms
+SendAdvanTestResult1  cost: 0ms
+dest2  cost: 3216.2995ms
+CGhost Total Cost 2=3821.8329ms
+JPT Total Cost 2=6104.6811ms
+Total Cost 2=9926.514ms
+################### Test2 End ####################
+dest1  cost: 5653.8522ms
+CGhost Total Cost 1=5854.1079ms
+JPT Total Cost 1=6567.8721ms
+Total Cost 1=12421.98ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 503.7578ms
+barCode  cost: 992.5152ms
+Dark Test1  cost: 1133.7674ms
+YtoWhite  cost: 100.0015ms
+White Test2  cost: 503.7577ms
+InspectMod2Unit  cost: 2240.0344ms
+White Test1  cost: 517.5079ms
+Mod1 Point0 Motion  cost: 801.2624ms
+InspectMod1Unit  cost: 3138.7982ms
+Mod1 Point0 GetCount  cost: 518.7579ms
+Mod1 Point0 CalTrans And SaveData  cost: 43.7507ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 521.258ms
+Mod1 Point2 CalTrans And SaveData  cost: 47.5007ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2848.7938ms
+Mod1 Point4 GetCount  cost: 517.5079ms
+Mod1 Point4 CalTrans And SaveData  cost: 51.2508ms
+finu2  cost: 402.5062ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5001ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3231.2996ms
+CGhost Total Cost 2=4135.0635ms
+JPT Total Cost 2=6096.3437ms
+Total Cost 2=10231.4072ms
+################### Test2 End ####################
+dest1  cost: 5971.3417ms
+CGhost Total Cost 1=6071.3432ms
+JPT Total Cost 1=6566.3508ms
+Total Cost 1=12637.694ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 507.5078ms
+barCode  cost: 990.0152ms
+Dark Test1  cost: 1131.2673ms
+YtoWhite  cost: 101.2515ms
+White Test2  cost: 512.5078ms
+InspectMod1Unit  cost: 2167.7864ms
+White Test1  cost: 517.2645ms
+Mod1 Point0 Motion  cost: 800.0458ms
+InspectMod2Unit  cost: 3355.853ms
+Mod1 Point0 GetCount  cost: 518.0296ms
+Mod1 Point0 CalTrans And SaveData  cost: 32.0018ms
+Mod1 Point2 Motion  cost: 200.0115ms
+Mod1 Point2 GetCount  cost: 515.0294ms
+Mod1 Point2 CalTrans And SaveData  cost: 34.002ms
+Mod1 Point4 Motion  cost: 201.0115ms
+Spectrograph2  cost: 2785.9029ms
+Mod1 Point4 GetCount  cost: 513.0294ms
+Mod1 Point4 CalTrans And SaveData  cost: 33.0019ms
+finu2  cost: 101.0058ms
+ToOrigin  cost: 201.0115ms
+SendImageAdvance1  cost: 1ms
+finu1  cost: 100.0057ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 601.0344ms
+dest2  cost: 3202.8312ms
+CGhost Total Cost 2=3904.8714ms
+JPT Total Cost 2=7161.7715ms
+Total Cost 2=11066.6429ms
+################### Test2 End ####################
+dest1  cost: 5736.5987ms
+CGhost Total Cost 1=5836.6044ms
+JPT Total Cost 1=5587.3454ms
+Total Cost 1=11423.9498ms
+################### Test1 End ####################
+Rotatry  cost: 780.0119ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 505.0078ms
+barCode  cost: 972.515ms
+Dark Test1  cost: 1137.5175ms
+YtoWhite  cost: 101.2516ms
+White Test2  cost: 502.5077ms
+InspectMod2Unit  cost: 2228.7843ms
+White Test1  cost: 516.2579ms
+Mod1 Point0 Motion  cost: 801.2623ms
+InspectMod1Unit  cost: 3167.5487ms
+Mod1 Point0 GetCount  cost: 518.758ms
+Mod1 Point0 CalTrans And SaveData  cost: 46.2507ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 510.0078ms
+Mod1 Point2 CalTrans And SaveData  cost: 48.7508ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2820.0433ms
+Mod1 Point4 GetCount  cost: 518.758ms
+Mod1 Point4 CalTrans And SaveData  cost: 50.0007ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 1.25ms
+tsta2  cost: 501.2577ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 0ms
+dest2  cost: 3225.0495ms
+CGhost Total Cost 2=3828.8088ms
+JPT Total Cost 2=6056.3431ms
+Total Cost 2=9885.1519ms
+################### Test2 End ####################
+dest1  cost: 5685.0873ms
+CGhost Total Cost 1=5785.0888ms
+JPT Total Cost 1=6575.101ms
+Total Cost 1=12360.1898ms
+################### Test1 End ####################
+Rotatry  cost: 780.0119ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 622.5095ms
+barCode  cost: 988.7652ms
+Dark Test2  cost: 1000.0154ms
+YtoWhite  cost: 101.2516ms
+White Test1  cost: 517.508ms
+InspectMod1Unit  cost: 2140.0329ms
+White Test2  cost: 501.2577ms
+Mod1 Point0 Motion  cost: 801.2623ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 33.7505ms
+Mod1 Point2 Motion  cost: 201.2531ms
+InspectMod2Unit  cost: 3256.3ms
+Mod1 Point2 GetCount  cost: 522.5081ms
+Mod1 Point2 CalTrans And SaveData  cost: 30.0004ms
+Mod1 Point4 Motion  cost: 200.003ms
+Mod1 Point4 GetCount  cost: 525.0081ms
+Mod1 Point4 CalTrans And SaveData  cost: 46.2507ms
+Spectrograph2  cost: 2817.5433ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.2501ms
+finu2  cost: 101.2515ms
+tsta2  cost: 501.2577ms
+dest1  cost: 3141.2983ms
+CGhost Total Cost 1=3241.2998ms
+JPT Total Cost 1=5052.5776ms
+Total Cost 1=8293.8774ms
+################### Test1 End ####################
+dest2  cost: 5600.0861ms
+CGhost Total Cost 2=6202.5953ms
+JPT Total Cost 2=7575.1164ms
+Total Cost 2=13777.7117ms
+################### Test2 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 505.0078ms
+barCode  cost: 965.0148ms
+Dark Test1  cost: 1106.267ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 573.7588ms
+InspectMod2Unit  cost: 2241.2844ms
+White Test1  cost: 511.2578ms
+Mod1 Point0 Motion  cost: 791.2622ms
+InspectMod1Unit  cost: 3172.5487ms
+Mod1 Point0 GetCount  cost: 518.7579ms
+Mod1 Point0 CalTrans And SaveData  cost: 43.7507ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 513.7579ms
+Mod1 Point2 CalTrans And SaveData  cost: 57.5009ms
+Mod1 Point4 Motion  cost: 201.2531ms
+Spectrograph2  cost: 2813.7933ms
+Mod1 Point4 GetCount  cost: 517.5079ms
+Mod1 Point4 CalTrans And SaveData  cost: 42.5006ms
+finu2  cost: 102.5016ms
+ToOrigin  cost: 200.003ms
+SendImageAdvance1  cost: 1.25ms
+tsta2  cost: 502.5077ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 1.25ms
+dest2  cost: 3201.2992ms
+CGhost Total Cost 2=3806.3085ms
+JPT Total Cost 2=6133.8443ms
+Total Cost 2=9940.1528ms
+################### Test2 End ####################
+dest1  cost: 5600.086ms
+CGhost Total Cost 1=5700.0876ms
+JPT Total Cost 1=6537.6003ms
+Total Cost 1=12237.6879ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test2  cost: 506.2578ms
+barCode  cost: 972.5149ms
+Dark Test1  cost: 1122.5172ms
+YtoWhite  cost: 100.0016ms
+White Test2  cost: 502.5078ms
+White Test1  cost: 510.0078ms
+InspectMod2Unit  cost: 2253.7846ms
+Mod1 Point0 Motion  cost: 801.2623ms
+InspectMod1Unit  cost: 3203.7992ms
+Mod1 Point0 GetCount  cost: 518.758ms
+Mod1 Point0 CalTrans And SaveData  cost: 52.5008ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 515.0079ms
+Mod1 Point2 CalTrans And SaveData  cost: 42.5007ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2810.0432ms
+Mod1 Point4 GetCount  cost: 522.508ms
+Mod1 Point4 CalTrans And SaveData  cost: 48.7507ms
+finu2  cost: 402.5062ms
+ToOrigin  cost: 200.0031ms
+SendImageAdvance1  cost: 1.25ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3201.2991ms
+CGhost Total Cost 2=4105.063ms
+JPT Total Cost 2=6072.5934ms
+Total Cost 2=10177.6564ms
+################### Test2 End ####################
+dest1  cost: 5900.0906ms
+CGhost Total Cost 1=6000.0922ms
+JPT Total Cost 1=6590.1011ms
+Total Cost 1=12590.1933ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test2  cost: 506.2577ms
+barCode  cost: 973.765ms
+Dark Test1  cost: 1116.2671ms
+YtoWhite  cost: 101.2516ms
+White Test2  cost: 511.2579ms
+InspectMod2Unit  cost: 2177.5334ms
+White Test1  cost: 517.5079ms
+Mod1 Point0 Motion  cost: 797.5123ms
+InspectMod1Unit  cost: 3143.7983ms
+Mod1 Point0 GetCount  cost: 512.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 35.0005ms
+Mod1 Point2 Motion  cost: 200.0031ms
+Mod1 Point2 GetCount  cost: 512.5079ms
+Mod1 Point2 CalTrans And SaveData  cost: 42.5006ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Spectrograph2  cost: 2821.2933ms
+Mod1 Point4 GetCount  cost: 515.0079ms
+Mod1 Point4 CalTrans And SaveData  cost: 40.0006ms
+finu2  cost: 501.2577ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 1.25ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.2501ms
+tsta2  cost: 602.5093ms
+dest2  cost: 3201.2992ms
+CGhost Total Cost 2=4305.0662ms
+JPT Total Cost 2=6016.3423ms
+Total Cost 2=10321.4085ms
+################### Test2 End ####################
+dest1  cost: 6110.0938ms
+CGhost Total Cost 1=6210.0953ms
+JPT Total Cost 1=6533.8504ms
+Total Cost 1=12743.9457ms
+################### Test1 End ####################
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 618.7595ms
+Dark Test2  cost: 997.5153ms
+YtoWhite  cost: 101.2516ms
+White Test1  cost: 517.5079ms
+InspectMod2Unit  cost: 2233.7843ms
+White Test2  cost: 507.5078ms
+Mod1 Point0 Motion  cost: 791.2622ms
+Mod1 Point0 GetCount  cost: 517.5079ms
+Mod1 Point0 CalTrans And SaveData  cost: 32.5005ms
+InspectMod1Unit  cost: 3151.2984ms
+Mod1 Point2 Motion  cost: 201.2531ms
+Mod1 Point2 GetCount  cost: 515.0079ms
+Mod1 Point2 CalTrans And SaveData  cost: 28.7505ms
+Mod1 Point4 Motion  cost: 200.0031ms
+Mod1 Point4 GetCount  cost: 518.7579ms
+Mod1 Point4 CalTrans And SaveData  cost: 28.7505ms
+Spectrograph2  cost: 2831.2935ms
+ToOrigin  cost: 200.003ms
+SendImageAdvance1  cost: 1.25ms
+finu1  cost: 100.0016ms
+SendAdvanTestResult1  cost: 0ms
+finu2  cost: 101.2515ms
+tsta2  cost: 502.5078ms
+dest1  cost: 3123.798ms
+CGhost Total Cost 1=3223.7996ms
+JPT Total Cost 1=5068.8278ms
+Total Cost 1=8292.6274ms
+################### Test1 End ####################
+dest2  cost: 5602.586ms
+CGhost Total Cost 2=6206.3453ms
+JPT Total Cost 2=6570.1009ms
+Total Cost 2=12776.4462ms
+################### Test2 End ####################
+barCode  cost: 131.2521ms
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 612.5094ms
+Dark Test2  cost: 991.2652ms
+YtoWhite  cost: 101.2516ms
+White Test1  cost: 517.5079ms
+InspectMod1Unit  cost: 2137.5328ms
+White Test2  cost: 507.5078ms
+Mod1 Point0 Motion  cost: 801.2623ms
+Mod1 Point0 GetCount  cost: 517.508ms
+Mod1 Point0 CalTrans And SaveData  cost: 36.2505ms
+Mod1 Point2 Motion  cost: 201.2531ms
+InspectMod2Unit  cost: 3295.0506ms
+Mod1 Point2 GetCount  cost: 511.2579ms
+Mod1 Point2 CalTrans And SaveData  cost: 42.5006ms
+Mod1 Point4 Motion  cost: 200.003ms
+Mod1 Point4 GetCount  cost: 515.008ms
+Mod1 Point4 CalTrans And SaveData  cost: 43.7506ms
+Spectrograph2  cost: 2816.2932ms
+ToOrigin  cost: 201.2531ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 400.0062ms
+SendAdvanTestResult1  cost: 1.25ms
+finu2  cost: 101.2516ms
+tsta2  cost: 501.2577ms
+dest1  cost: 3143.7983ms
+CGhost Total Cost 1=3543.8045ms
+JPT Total Cost 1=4182.5642ms
+Total Cost 1=7726.3687ms
+################### Test1 End ####################
+dest2  cost: 5641.3366ms
+CGhost Total Cost 2=6243.8459ms
+JPT Total Cost 2=7610.1168ms
+Total Cost 2=13853.9627ms
+################### Test2 End ####################

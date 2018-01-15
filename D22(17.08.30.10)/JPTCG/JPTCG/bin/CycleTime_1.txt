@@ -1,0 +1,1937 @@
+barCode  cost: 181.2527ms
+Rotatry  cost: 1121.2673ms
+Cam1CCDCapture  cost: 560.0086ms
+Cam2CCDCapture  cost: 658.7601ms
+CaptureCCDExposure1  cost: 882.5136ms
+InspectMod1Unit  cost: 932.5143ms
+InspectMod2Unit  cost: 1042.516ms
+barCode  cost: 160.0025ms
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 536.2582ms
+Cam2CCDCapture  cost: 646.2599ms
+CaptureCCDExposure1  cost: 880.0135ms
+Dark Test1  cost: 663.7602ms
+barCode  cost: 560.0086ms
+InspectMod1Unit  cost: 903.7639ms
+InspectMod2Unit  cost: 1005.0155ms
+Dark Test2  cost: 841.2629ms
+rcst2  cost: 105.0016ms
+rcst2  cost: 105.0016ms
+rcst1  cost: 102.5016ms
+White Test1  cost: 648.7599ms
+White Test2  cost: 833.7628ms
+Spectrograph2  cost: 7835.1203ms
+finu2  cost: 405.0062ms
+tsta2  cost: 505.0078ms
+Spectrograph1  cost: 9420.1447ms
+SendImageAdvance1  cost: 3.75ms
+finu1  cost: 100.0015ms
+SendAdvanTestResult1  cost: 1.2501ms
+tsta1  cost: 500.0076ms
+dest2  cost: 3601.3053ms
+CGhost Total Cost 2=8217.6262ms
+JPT Total Cost 2=12862.6975ms
+Total Cost 2=21080.3237ms
+################### Test2 End ####################
+dest1  cost: 4100.063ms
+CGhost Total Cost 1=8902.6367ms
+JPT Total Cost 1=18575.2853ms
+Total Cost 1=27477.922ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 537.5083ms
+Cam2CCDCapture  cost: 636.2597ms
+CaptureCCDExposure1  cost: 860.0132ms
+Dark Test1  cost: 646.2599ms
+InspectMod1Unit  cost: 861.2632ms
+InspectMod2Unit  cost: 961.2647ms
+Dark Test2  cost: 832.5128ms
+rcst2  cost: 100.0015ms
+rcst1  cost: 100.0015ms
+White Test1  cost: 646.2599ms
+White Test2  cost: 821.2626ms
+Spectrograph2  cost: 7550.116ms
+Spectrograph1  cost: 7936.3719ms
+finu2  cost: 102.5016ms
+SendImageAdvance1  cost: 3.7501ms
+finu1  cost: 200.003ms
+SendAdvanTestResult1  cost: 1.2501ms
+tsta2  cost: 601.2592ms
+tsta1  cost: 500.0076ms
+dest2  cost: 3632.5558ms
+CGhost Total Cost 2=8068.8739ms
+JPT Total Cost 2=10801.4158ms
+Total Cost 2=18870.2897ms
+################### Test2 End ####################
+dest1  cost: 5555.0853ms
+CGhost Total Cost 1=11910.1827ms
+JPT Total Cost 1=12612.6938ms
+Total Cost 1=24522.8765ms
+################### Test1 End ####################
+barCode  cost: 222.5034ms
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 536.2583ms
+Cam2CCDCapture  cost: 636.2598ms
+CaptureCCDExposure1  cost: 870.0133ms
+Dark Test1  cost: 643.7599ms
+InspectMod1Unit  cost: 1388.7713ms
+Dark Test2  cost: 827.5127ms
+InspectMod2Unit  cost: 1487.5228ms
+rcst2  cost: 100.0015ms
+rcst1  cost: 100.0015ms
+White Test1  cost: 653.76ms
+White Test2  cost: 827.5127ms
+Spectrograph2  cost: 7562.6161ms
+Spectrograph1  cost: 7891.3713ms
+finu2  cost: 103.7516ms
+SendImageAdvance1  cost: 3.75ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 501.2577ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3600.0553ms
+CGhost Total Cost 2=7905.1214ms
+JPT Total Cost 2=11341.4241ms
+Total Cost 2=19246.5455ms
+################### Test2 End ####################
+dest1  cost: 5200.0798ms
+CGhost Total Cost 1=11200.1719ms
+JPT Total Cost 1=13331.4547ms
+Total Cost 1=24531.6266ms
+################### Test1 End ####################
+barCode  cost: 182.5028ms
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 531.2581ms
+Cam2CCDCapture  cost: 640.0098ms
+CaptureCCDExposure1  cost: 880.0135ms
+Dark Test1  cost: 647.5099ms
+InspectMod2Unit  cost: 675.0103ms
+Dark Test2  cost: 826.2627ms
+rcst2  cost: 300.0047ms
+rcst1  cost: 300.0046ms
+White Test1  cost: 647.5099ms
+White Test2  cost: 821.2626ms
+Spectrograph2  cost: 7579.8671ms
+finu2  cost: 203.7531ms
+Spectrograph1  cost: 8601.1327ms
+tsta2  cost: 501.2577ms
+SendImageAdvance1  cost: 3.7501ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3622.5557ms
+CGhost Total Cost 2=8250.1269ms
+JPT Total Cost 2=10542.4125ms
+Total Cost 2=18792.5394ms
+################### Test2 End ####################
+dest1  cost: 5435.0834ms
+CGhost Total Cost 1=11870.1822ms
+JPT Total Cost 1=12614.9442ms
+Total Cost 1=24485.1264ms
+################### Test1 End ####################
+InspectMod1Unit  cost: 0ms
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 531.2582ms
+Cam2CCDCapture  cost: 636.2598ms
+CaptureCCDExposure1  cost: 870.0134ms
+InspectMod1Unit  cost: 561.2586ms
+InspectMod2Unit  cost: 656.2601ms
+Dark Test2  cost: 828.7628ms
+rcst2  cost: 100.0016ms
+White Test2  cost: 820.0126ms
+Spectrograph2  cost: 7585.1165ms
+finu2  cost: 203.7531ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3647.5561ms
+CGhost Total Cost 2=8100.1246ms
+JPT Total Cost 2=10526.4118ms
+Total Cost 2=18626.5364ms
+################### Test2 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 536.2582ms
+Cam2CCDCapture  cost: 636.2598ms
+CaptureCCDExposure1  cost: 890.0136ms
+InspectMod1Unit  cost: 551.2584ms
+Dark Test1  cost: 642.5098ms
+InspectMod2Unit  cost: 660.0102ms
+Dark Test2  cost: 837.5129ms
+rcst2  cost: 100.0015ms
+rcst1  cost: 100.0015ms
+White Test1  cost: 653.76ms
+White Test2  cost: 822.5127ms
+Spectrograph2  cost: 7580.1164ms
+Spectrograph1  cost: 7947.6221ms
+finu2  cost: 402.5062ms
+SendImageAdvance1  cost: 3.7501ms
+finu1  cost: 200.003ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 501.2577ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3627.5557ms
+CGhost Total Cost 2=8258.8768ms
+JPT Total Cost 2=10536.412ms
+Total Cost 2=18795.2888ms
+################### Test2 End ####################
+dest1  cost: 5555.0853ms
+CGhost Total Cost 1=11910.1828ms
+JPT Total Cost 1=15427.7368ms
+Total Cost 1=27337.9196ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 541.2583ms
+Cam2CCDCapture  cost: 636.2598ms
+CaptureCCDExposure1  cost: 850.0131ms
+InspectMod1Unit  cost: 563.7586ms
+Dark Test1  cost: 647.5099ms
+InspectMod2Unit  cost: 666.2602ms
+Dark Test2  cost: 830.0128ms
+rcst2  cost: 100.0015ms
+rcst1  cost: 100.0015ms
+White Test1  cost: 646.2599ms
+White Test2  cost: 826.2627ms
+Spectrograph2  cost: 7578.8664ms
+Spectrograph1  cost: 7923.8717ms
+finu2  cost: 402.5062ms
+SendImageAdvance1  cost: 3.75ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 2.5ms
+tsta2  cost: 501.2577ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3635.0559ms
+CGhost Total Cost 2=8273.8772ms
+JPT Total Cost 2=10537.6619ms
+Total Cost 2=18811.5391ms
+################### Test2 End ####################
+dest1  cost: 5251.3307ms
+CGhost Total Cost 1=11302.6737ms
+JPT Total Cost 1=12298.9387ms
+Total Cost 1=23601.6124ms
+################### Test1 End ####################
+barCode  cost: 175.0027ms
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 537.5082ms
+Cam2CCDCapture  cost: 636.2598ms
+CaptureCCDExposure1  cost: 860.0132ms
+InspectMod1Unit  cost: 566.2587ms
+Dark Test1  cost: 656.2601ms
+InspectMod2Unit  cost: 670.0103ms
+Dark Test2  cost: 830.0128ms
+rcst2  cost: 100.0015ms
+rcst1  cost: 100.0015ms
+White Test1  cost: 650.01ms
+White Test2  cost: 820.0126ms
+Spectrograph2  cost: 7563.8662ms
+finu2  cost: 203.7532ms
+Spectrograph1  cost: 8501.3806ms
+tsta2  cost: 501.2577ms
+SendImageAdvance1  cost: 3.7501ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3626.3057ms
+CGhost Total Cost 2=8057.6238ms
+JPT Total Cost 2=10520.1617ms
+Total Cost 2=18577.7855ms
+################### Test2 End ####################
+dest1  cost: 5452.5837ms
+CGhost Total Cost 1=11705.1797ms
+JPT Total Cost 1=13070.2008ms
+Total Cost 1=24775.3805ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 532.5081ms
+Cam2CCDCapture  cost: 641.2598ms
+CaptureCCDExposure1  cost: 890.0137ms
+InspectMod1Unit  cost: 557.5086ms
+Dark Test1  cost: 647.5099ms
+InspectMod2Unit  cost: 666.2603ms
+Dark Test2  cost: 835.0128ms
+rcst2  cost: 100.0015ms
+rcst1  cost: 100.0015ms
+White Test1  cost: 653.7601ms
+White Test2  cost: 827.5127ms
+Spectrograph2  cost: 7536.3658ms
+Spectrograph1  cost: 7913.8715ms
+finu2  cost: 402.5062ms
+SendImageAdvance1  cost: 3.7501ms
+finu1  cost: 200.003ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 500.0076ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3623.8056ms
+CGhost Total Cost 2=8250.1265ms
+JPT Total Cost 2=10506.4114ms
+Total Cost 2=18756.5379ms
+################### Test2 End ####################
+dest1  cost: 5273.831ms
+CGhost Total Cost 1=11347.6742ms
+JPT Total Cost 1=12318.9392ms
+Total Cost 1=23666.6134ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 547.5084ms
+Cam2CCDCapture  cost: 636.2598ms
+CaptureCCDExposure1  cost: 845.013ms
+InspectMod1Unit  cost: 562.5087ms
+Dark Test1  cost: 651.26ms
+InspectMod2Unit  cost: 657.5101ms
+Dark Test2  cost: 828.7627ms
+rcst2  cost: 100.0015ms
+rcst1  cost: 100.0015ms
+White Test1  cost: 641.2598ms
+White Test2  cost: 826.2627ms
+Spectrograph2  cost: 7567.6163ms
+Spectrograph1  cost: 7935.1219ms
+finu2  cost: 102.5015ms
+SendImageAdvance1  cost: 3.7501ms
+finu1  cost: 200.003ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 601.2593ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3620.0557ms
+CGhost Total Cost 2=8043.8737ms
+JPT Total Cost 2=10516.4116ms
+Total Cost 2=18560.2853ms
+################### Test2 End ####################
+dest1  cost: 5558.8354ms
+CGhost Total Cost 1=11917.683ms
+JPT Total Cost 1=12306.4391ms
+Total Cost 1=24224.1221ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 531.2582ms
+Cam2CCDCapture  cost: 641.2598ms
+CaptureCCDExposure1  cost: 850.013ms
+InspectMod1Unit  cost: 561.2586ms
+Dark Test1  cost: 651.26ms
+InspectMod2Unit  cost: 665.0102ms
+Dark Test2  cost: 831.2628ms
+rcst1  cost: 100.0015ms
+rcst2  cost: 100.0015ms
+White Test1  cost: 645.0099ms
+White Test2  cost: 828.7627ms
+Spectrograph2  cost: 7556.3661ms
+Spectrograph1  cost: 7902.6214ms
+finu2  cost: 203.7532ms
+SendImageAdvance1  cost: 3.75ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 500.0077ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3637.5559ms
+CGhost Total Cost 2=8078.8742ms
+JPT Total Cost 2=10522.6616ms
+Total Cost 2=18601.5358ms
+################### Test2 End ####################
+dest1  cost: 5301.3314ms
+CGhost Total Cost 1=11402.6751ms
+JPT Total Cost 1=12266.4383ms
+Total Cost 1=23669.1134ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 536.2583ms
+Cam2CCDCapture  cost: 637.5098ms
+CaptureCCDExposure1  cost: 851.2631ms
+InspectMod1Unit  cost: 557.5086ms
+Dark Test1  cost: 647.51ms
+InspectMod2Unit  cost: 657.5101ms
+Dark Test2  cost: 821.2626ms
+rcst1  cost: 100.0015ms
+rcst2  cost: 100.0015ms
+White Test1  cost: 640.0098ms
+White Test2  cost: 821.2626ms
+Spectrograph2  cost: 7583.8665ms
+finu2  cost: 403.7562ms
+Spectrograph1  cost: 8501.3806ms
+tsta2  cost: 501.2577ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3625.0557ms
+CGhost Total Cost 2=8255.1268ms
+JPT Total Cost 2=10521.4116ms
+Total Cost 2=18776.5384ms
+################### Test2 End ####################
+dest1  cost: 5518.8347ms
+CGhost Total Cost 1=11837.6817ms
+JPT Total Cost 1=12856.4476ms
+Total Cost 1=24694.1293ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 536.2582ms
+Cam2CCDCapture  cost: 630.0096ms
+CaptureCCDExposure1  cost: 890.0136ms
+InspectMod1Unit  cost: 575.0089ms
+Dark Test1  cost: 647.5099ms
+InspectMod2Unit  cost: 680.0104ms
+Dark Test2  cost: 822.5127ms
+rcst1  cost: 100.0015ms
+rcst2  cost: 100.0015ms
+White Test1  cost: 642.5099ms
+White Test2  cost: 835.0129ms
+Spectrograph2  cost: 7518.8654ms
+Spectrograph1  cost: 7860.1207ms
+SendImageAdvance1  cost: 3.7501ms
+finu2  cost: 403.7562ms
+finu1  cost: 200.003ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 501.2577ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3618.8056ms
+CGhost Total Cost 2=8242.6266ms
+JPT Total Cost 2=10486.411ms
+Total Cost 2=18729.0376ms
+################### Test2 End ####################
+dest1  cost: 5371.3325ms
+CGhost Total Cost 1=11542.6772ms
+JPT Total Cost 1=12275.1885ms
+Total Cost 1=23817.8657ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 531.2582ms
+Cam2CCDCapture  cost: 630.0097ms
+CaptureCCDExposure1  cost: 890.0137ms
+InspectMod1Unit  cost: 558.7586ms
+Dark Test1  cost: 648.7599ms
+InspectMod2Unit  cost: 653.76ms
+Dark Test2  cost: 828.7627ms
+rcst1  cost: 100.0016ms
+7ms
+s
+
+ms
+Cost 1=1154rcst1  cost: 100.0016ms
+7ms
+s
+
+ms
+Cost 1=1154White Test1  cost: 641.2598ms
+White Test2  cost: 826.2627ms
+Spectrograph2  cost: 7532.6157ms
+Spectrograph1  cost: 7928.8718ms
+finu2  cost: 102.5015ms
+SendImageAdvance1  cost: 3.75ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 2.5001ms
+tsta2  cost: 601.2593ms
+tsta1  cost: 500.0076ms
+dest2  cost: 3653.8062ms
+CGhost Total Cost 2=8111.3748ms
+JPT Total Cost 2=10471.4108ms
+Total Cost 2=18582.7856ms
+################### Test2 End ####################
+dest1  cost: 5601.336ms
+CGhost Total Cost 1=12002.6843ms
+JPT Total Cost 1=12325.1893ms
+Total Cost 1=24327.8736ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 538.7583ms
+Cam2CCDCapture  cost: 646.2599ms
+CaptureCCDExposure1  cost: 900.0139ms
+InspectMod1Unit  cost: 573.7588ms
+Dark Test1  cost: 651.26ms
+InspectMod2Unit  cost: 676.2603ms
+Dark Test2  cost: 832.5128ms
+rcst1  cost: 100.0015ms
+rcst2  cost: 100.0015ms
+White Test1  cost: 647.51ms
+White Test2  cost: 822.5126ms
+Spectrograph2  cost: 7551.366ms
+Spectrograph1  cost: 7882.6211ms
+finu2  cost: 203.7531ms
+SendImageAdvance1  cost: 3.75ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 501.2577ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3642.5559ms
+CGhost Total Cost 2=8090.1241ms
+JPT Total Cost 2=10528.9116ms
+Total Cost 2=18619.0357ms
+################### Test2 End ####################
+dest1  cost: 5312.5816ms
+CGhost Total Cost 1=11425.1755ms
+JPT Total Cost 1=12317.6893ms
+Total Cost 1=23742.8648ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 538.7583ms
+Cam2CCDCapture  cost: 636.2597ms
+CaptureCCDExposure1  cost: 850.013ms
+InspectMod1Unit  cost: 571.2587ms
+Dark Test1  cost: 656.2601ms
+InspectMod2Unit  cost: 668.7603ms
+Dark Test2  cost: 822.5126ms
+rcst2  cost: 100.0015ms
+rcst1  cost: 100.0015ms
+White Test1  cost: 653.76ms
+White Test2  cost: 827.5127ms
+Spectrograph2  cost: 7553.866ms
+finu2  cost: 203.7531ms
+Spectrograph1  cost: 8477.6302ms
+tsta2  cost: 501.2577ms
+SendImageAdvance1  cost: 3.7501ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3630.0558ms
+CGhost Total Cost 2=8065.1239ms
+JPT Total Cost 2=10508.9113ms
+Total Cost 2=18574.0352ms
+################### Test2 End ####################
+dest1  cost: 5501.3345ms
+CGhost Total Cost 1=11802.6813ms
+JPT Total Cost 1=12871.4476ms
+Total Cost 1=24674.1289ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 536.2582ms
+Cam2CCDCapture  cost: 631.2597ms
+CaptureCCDExposure1  cost: 890.0137ms
+InspectMod1Unit  cost: 576.2589ms
+Dark Test1  cost: 655.01ms
+InspectMod2Unit  cost: 682.5104ms
+Dark Test2  cost: 827.5127ms
+rcst1  cost: 100.0016ms
+rcst1  cost: 100.0016ms
+rcst1  cost: 100.0016ms
+rcst2  cost: 100.0016ms
+White Test1  cost: 650.01ms
+White Test2  cost: 823.7626ms
+Spectrograph2  cost: 7531.3657ms
+Spectrograph1  cost: 7866.3708ms
+finu2  cost: 203.7531ms
+SendImageAdvance1  cost: 3.7501ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 500.0077ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3677.5565ms
+CGhost Total Cost 2=8158.8754ms
+JPT Total Cost 2=10496.4111ms
+Total Cost 2=18655.2865ms
+################### Test2 End ####################
+dest1  cost: 5465.0839ms
+CGhost Total Cost 1=11730.1802ms
+JPT Total Cost 1=12297.6889ms
+Total Cost 1=24027.8691ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 543.7584ms
+Cam2CCDCapture  cost: 635.0097ms
+CaptureCCDExposure1  cost: 842.5129ms
+InspectMod1Unit  cost: 560.0086ms
+Dark Test1  cost: 652.51ms
+InspectMod2Unit  cost: 663.7602ms
+Dark Test2  cost: 828.7628ms
+rcst2  cost: 100.0015ms
+8ms
+2ms
+ms
+Cost 1=1173rcst2  cost: 100.0015ms
+8ms
+2ms
+ms
+Cost 1=1173White Test1  cost: 655.01ms
+White Test2  cost: 820.0126ms
+Spectrograph2  cost: 7565.1162ms
+Spectrograph1  cost: 7946.3721ms
+finu2  cost: 402.5062ms
+SendImageAdvance1  cost: 3.75ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 501.2577ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3625.0557ms
+CGhost Total Cost 2=8253.8768ms
+JPT Total Cost 2=10512.6615ms
+Total Cost 2=18766.5383ms
+################### Test2 End ####################
+dest1  cost: 5546.3352ms
+CGhost Total Cost 1=11892.6827ms
+JPT Total Cost 1=12325.1892ms
+Total Cost 1=24217.8719ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 537.5083ms
+Cam2CCDCapture  cost: 631.2597ms
+CaptureCCDExposure1  cost: 840.0129ms
+InspectMod1Unit  cost: 562.5086ms
+Dark Test1  cost: 653.7601ms
+InspectMod2Unit  cost: 660.0101ms
+Dark Test2  cost: 822.5126ms
+rcst2  cost: 100.0016ms
+rcst1  cost: 100.0016ms
+White Test1  cost: 647.51ms
+White Test2  cost: 835.0128ms
+Spectrograph2  cost: 7546.3659ms
+Spectrograph1  cost: 7916.3716ms
+finu2  cost: 403.7562ms
+SendImageAdvance1  cost: 3.7501ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 501.2577ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3648.806ms
+CGhost Total Cost 2=8302.6275ms
+JPT Total Cost 2=10495.1611ms
+Total Cost 2=18797.7886ms
+################### Test2 End ####################
+dest1  cost: 5233.8303ms
+CGhost Total Cost 1=11267.673ms
+JPT Total Cost 1=12281.4388ms
+Total Cost 1=23549.1118ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 532.5082ms
+Cam2CCDCapture  cost: 631.2597ms
+CaptureCCDExposure1  cost: 850.0131ms
+InspectMod1Unit  cost: 560.0086ms
+Dark Test1  cost: 647.5099ms
+InspectMod2Unit  cost: 656.2601ms
+Dark Test2  cost: 826.2627ms
+rcst2  cost: 100.0016ms
+rcst1  cost: 100.0015ms
+White Test1  cost: 641.2598ms
+White Test2  cost: 835.0128ms
+Spectrograph2  cost: 7533.8657ms
+finu2  cost: 103.7516ms
+Spectrograph1  cost: 8455.1299ms
+tsta2  cost: 501.2577ms
+SendImageAdvance1  cost: 3.75ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3635.0558ms
+CGhost Total Cost 2=7975.1225ms
+JPT Total Cost 2=10482.661ms
+Total Cost 2=18457.7835ms
+################### Test2 End ####################
+dest1  cost: 5501.3345ms
+CGhost Total Cost 1=11802.6813ms
+JPT Total Cost 1=12811.4467ms
+Total Cost 1=24614.128ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 538.7582ms
+Cam2CCDCapture  cost: 636.2597ms
+CaptureCCDExposure1  cost: 890.0137ms
+InspectMod1Unit  cost: 558.7586ms
+Dark Test1  cost: 647.5099ms
+InspectMod2Unit  cost: 658.7601ms
+Dark Test2  cost: 823.7627ms
+rcst2  cost: 100.0016ms
+rcst1  cost: 100.0016ms
+White Test1  cost: 646.26ms
+White Test2  cost: 827.5127ms
+Spectrograph2  cost: 7542.6159ms
+Spectrograph1  cost: 7923.8717ms
+finu2  cost: 403.7562ms
+SendImageAdvance1  cost: 2.5ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 601.2593ms
+tsta1  cost: 600.0092ms
+dest2  cost: 3611.3055ms
+CGhost Total Cost 2=8327.6281ms
+JPT Total Cost 2=10488.9111ms
+Total Cost 2=18816.5392ms
+################### Test2 End ####################
+dest1  cost: 5278.8311ms
+CGhost Total Cost 1=11457.6761ms
+JPT Total Cost 1=12328.9393ms
+Total Cost 1=23786.6154ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 546.2584ms
+Cam2CCDCapture  cost: 636.2598ms
+CaptureCCDExposure1  cost: 893.7637ms
+InspectMod1Unit  cost: 558.7586ms
+Dark Test1  cost: 653.7601ms
+InspectMod2Unit  cost: 657.5101ms
+Dark Test2  cost: 826.2627ms
+rcst1  cost: 100.0016ms
+rcst2  cost: 100.0016ms
+White Test1  cost: 645.0099ms
+White Test2  cost: 831.2628ms
+Spectrograph2  cost: 7570.1163ms
+Spectrograph1  cost: 7886.3711ms
+SendImageAdvance1  cost: 3.7501ms
+finu2  cost: 403.7562ms
+finu1  cost: 200.003ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 501.2577ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3627.5558ms
+CGhost Total Cost 2=8260.1271ms
+JPT Total Cost 2=10521.4117ms
+Total Cost 2=18781.5388ms
+################### Test2 End ####################
+dest1  cost: 5641.3366ms
+CGhost Total Cost 1=12082.6855ms
+JPT Total Cost 1=12307.6891ms
+Total Cost 1=24390.3746ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 537.5083ms
+Cam2CCDCapture  cost: 637.5097ms
+CaptureCCDExposure1  cost: 842.5129ms
+InspectMod1Unit  cost: 556.2585ms
+Dark Test1  cost: 642.5099ms
+InspectMod2Unit  cost: 657.5101ms
+Dark Test2  cost: 822.5126ms
+rcst1  cost: 100.0016ms
+rcst2  cost: 100.0015ms
+White Test1  cost: 648.76ms
+White Test2  cost: 823.7626ms
+Spectrograph2  cost: 7536.1181ms
+Spectrograph1  cost: 7867.3732ms
+finu2  cost: 203.7531ms
+SendImageAdvance1  cost: 3.75ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 501.2577ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3600.0553ms
+CGhost Total Cost 2=8005.1229ms
+JPT Total Cost 2=10477.4131ms
+Total Cost 2=18482.536ms
+################### Test2 End ####################
+dest1  cost: 5300.0814ms
+CGhost Total Cost 1=11400.1752ms
+JPT Total Cost 1=12219.94ms
+Total Cost 1=23620.1152ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 531.2582ms
+Cam2CCDCapture  cost: 635.0098ms
+CaptureCCDExposure1  cost: 860.0132ms
+InspectMod1Unit  cost: 557.5086ms
+Dark Test1  cost: 643.7599ms
+InspectMod2Unit  cost: 661.2602ms
+Dark Test2  cost: 827.5127ms
+rcst2  cost: 100.0015ms
+rcst1  cost: 100.0016ms
+White Test1  cost: 651.26ms
+White Test2  cost: 821.2627ms
+Spectrograph2  cost: 7525.1155ms
+finu2  cost: 103.7516ms
+Spectrograph1  cost: 8472.6302ms
+tsta2  cost: 502.5077ms
+SendImageAdvance1  cost: 3.75ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3611.3055ms
+CGhost Total Cost 2=7928.8718ms
+JPT Total Cost 2=10470.1609ms
+Total Cost 2=18399.0327ms
+################### Test2 End ####################
+dest1  cost: 5400.0829ms
+CGhost Total Cost 1=11600.1782ms
+JPT Total Cost 1=12840.1973ms
+Total Cost 1=24440.3755ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 537.5082ms
+Cam2CCDCapture  cost: 636.2597ms
+CaptureCCDExposure1  cost: 890.0136ms
+InspectMod1Unit  cost: 562.5086ms
+InspectMod2Unit  cost: 667.5102ms
+Dark Test1  cost: 651.26ms
+Dark Test2  cost: 827.5127ms
+rcst2  cost: 100.0015ms
+rcst1  cost: 100.0015ms
+White Test1  cost: 648.76ms
+White Test2  cost: 827.5127ms
+Spectrograph2  cost: 7553.866ms
+Spectrograph1  cost: 7917.6216ms
+finu2  cost: 102.5016ms
+SendImageAdvance1  cost: 3.75ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 601.2592ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3635.0559ms
+CGhost Total Cost 2=8073.8741ms
+JPT Total Cost 2=10512.6613ms
+Total Cost 2=18586.5354ms
+################### Test2 End ####################
+dest1  cost: 5315.0816ms
+CGhost Total Cost 1=11430.1755ms
+JPT Total Cost 1=12331.4392ms
+Total Cost 1=23761.6147ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 538.7583ms
+Cam2CCDCapture  cost: 636.2598ms
+CaptureCCDExposure1  cost: 850.013ms
+InspectMod1Unit  cost: 556.2585ms
+Dark Test1  cost: 648.76ms
+InspectMod2Unit  cost: 655.0101ms
+Dark Test2  cost: 827.5127ms
+rcst1  cost: 100.0015ms
+rcst2  cost: 100.0015ms
+White Test1  cost: 655.01ms
+White Test2  cost: 825.0126ms
+Spectrograph2  cost: 7551.366ms
+Spectrograph1  cost: 7871.3709ms
+finu2  cost: 203.7531ms
+SendImageAdvance1  cost: 3.7501ms
+finu1  cost: 200.003ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 500.0077ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3616.3055ms
+CGhost Total Cost 2=8036.3733ms
+JPT Total Cost 2=10495.1612ms
+Total Cost 2=18531.5345ms
+################### Test2 End ####################
+dest1  cost: 5625.0864ms
+CGhost Total Cost 1=12050.185ms
+JPT Total Cost 1=12243.938ms
+Total Cost 1=24294.123ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 537.5083ms
+Cam2CCDCapture  cost: 636.2598ms
+CaptureCCDExposure1  cost: 890.0137ms
+InspectMod1Unit  cost: 560.0086ms
+Dark Test1  cost: 647.51ms
+InspectMod2Unit  cost: 651.26ms
+Dark Test2  cost: 828.7627ms
+rcst2  cost: 100.0015ms
+rcst2  cost: 100.0015ms
+rcst1  cost: 100.0015ms
+White Test1  cost: 655.0101ms
+White Test2  cost: 827.5127ms
+Spectrograph2  cost: 7550.1159ms
+Spectrograph1  cost: 7927.6217ms
+finu2  cost: 202.5031ms
+SendImageAdvance1  cost: 3.7501ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 500.0077ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3648.806ms
+CGhost Total Cost 2=8100.1243ms
+JPT Total Cost 2=10493.9111ms
+Total Cost 2=18594.0354ms
+################### Test2 End ####################
+dest1  cost: 5235.0804ms
+CGhost Total Cost 1=11270.1731ms
+JPT Total Cost 1=12342.6897ms
+Total Cost 1=23612.8628ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 531.2582ms
+Cam2CCDCapture  cost: 646.2599ms
+CaptureCCDExposure1  cost: 860.0132ms
+InspectMod1Unit  cost: 565.0087ms
+Dark Test1  cost: 645.0099ms
+InspectMod2Unit  cost: 665.0102ms
+Dark Test2  cost: 836.2629ms
+rcst1  cost: 100.0015ms
+rcst2  cost: 100.0015ms
+White Test1  cost: 656.2601ms
+White Test2  cost: 832.5128ms
+Spectrograph2  cost: 7563.8662ms
+finu2  cost: 103.7516ms
+Spectrograph1  cost: 8472.6301ms
+tsta2  cost: 501.2577ms
+SendImageAdvance1  cost: 3.7501ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3626.3057ms
+CGhost Total Cost 2=7957.6222ms
+JPT Total Cost 2=10543.912ms
+Total Cost 2=18501.5342ms
+################### Test2 End ####################
+dest1  cost: 5508.8346ms
+CGhost Total Cost 1=11817.6815ms
+JPT Total Cost 1=12855.1975ms
+Total Cost 1=24672.879ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 541.2583ms
+Cam2CCDCapture  cost: 631.2597ms
+CaptureCCDExposure1  cost: 840.0129ms
+InspectMod1Unit  cost: 567.5087ms
+Dark Test1  cost: 641.2599ms
+InspectMod2Unit  cost: 666.2603ms
+Dark Test2  cost: 835.0128ms
+rcst1  cost: 100.0015ms
+rcst2  cost: 100.0016ms
+White Test1  cost: 650.01ms
+White Test2  cost: 836.2628ms
+Spectrograph2  cost: 7508.8654ms
+Spectrograph1  cost: 7877.621ms
+finu2  cost: 203.7532ms
+SendImageAdvance1  cost: 3.7501ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta2  cost: 501.2577ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3651.3061ms
+CGhost Total Cost 2=8107.6247ms
+JPT Total Cost 2=10477.661ms
+Total Cost 2=18585.2857ms
+################### Test2 End ####################
+dest1  cost: 5363.8324ms
+CGhost Total Cost 1=11527.6771ms
+JPT Total Cost 1=12242.6881ms
+Total Cost 1=23770.3652ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0172ms
+Cam1CCDCapture  cost: 536.2583ms
+Cam2CCDCapture  cost: 636.2597ms
+CaptureCCDExposure1  cost: 851.2631ms
+InspectMod1Unit  cost: 566.2587ms
+Dark Test1  cost: 651.26ms
+InspectMod2Unit  cost: 672.5104ms
+Dark Test2  cost: 835.0128ms
+rcst1  cost: 100.0015ms
+rcst2  cost: 100.0016ms
+White Test1  cost: 641.2598ms
+White Test2  cost: 827.5127ms
+Spectrograph2  cost: 7551.366ms
+Spectrograph1  cost: 7901.3714ms
+finu2  cost: 103.7516ms
+SendImageAdvance1  cost: 3.7501ms
+finu1  cost: 200.003ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 501.2577ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3611.3055ms
+CGhost Total Cost 2=7927.6219ms
+JPT Total Cost 2=10522.6616ms
+Total Cost 2=18450.2835ms
+################### Test2 End ####################
+dest1  cost: 5606.3361ms
+CGhost Total Cost 1=12012.6844ms
+JPT Total Cost 1=12271.4386ms
+Total Cost 1=24284.123ms
+################### Test1 End ####################
+Rotatry  cost: 1120.0173ms
+Cam1CCDCapture  cost: 582.509ms
+Cam2CCDCapture  cost: 686.2606ms
+CaptureCCDExposure1  cost: 897.5138ms
+InspectMod1Unit  cost: 632.5098ms
+Dark Test1  cost: 642.5099ms
+InspectMod2Unit  cost: 721.2611ms
+Dark Test2  cost: 836.2628ms
+rcst1  cost: 100.0015ms
+rcst2  cost: 100.0016ms
+White Test1  cost: 650.01ms
+White Test2  cost: 822.5126ms
+Spectrograph2  cost: 7587.6166ms
+Spectrograph1  cost: 8006.373ms
+finu2  cost: 202.5031ms
+SendImageAdvance1  cost: 3.75ms
+finu1  cost: 200.0031ms
+SendAdvanTestResult1  cost: 0ms
+tsta2  cost: 600.0092ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3630.0558ms
+CGhost Total Cost 2=8162.6255ms
+JPT Total Cost 2=10653.9137ms
+Total Cost 2=18816.5392ms
+################### Test2 End ####################
+dest1  cost: 5237.5804ms
+CGhost Total Cost 1=11275.1731ms
+JPT Total Cost 1=12535.1928ms
+Total Cost 1=23810.3659ms
+################### Test1 End ####################
+barCode  cost: 162.5025ms
+Rotatry  cost: 1180.0182ms
+InspectMod1Unit  cost: 585.009ms
+InspectMod2Unit  cost: 4038.812ms
+barCode  cost: 160.0025ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 1557.524ms
+InspectMod2Unit  cost: 4037.562ms
+barCode  cost: 160.0025ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 548.7584ms
+Dark Test1  cost: 662.5102ms
+InspectMod2Unit  cost: 670.0103ms
+Dark Test2  cost: 836.2629ms
+rcst1  cost: 117.5018ms
+rcst1  cost: 117.5018ms
+White Test1  cost: 1945.0299ms
+White Test2  cost: 2478.788ms
+barCode  cost: 2091.2821ms
+barCode  cost: 210.0032ms
+Rotatry  cost: 1181.2681ms
+barCode  cost: 170.0026ms
+Rotatry  cost: 1180.0182ms
+InspectMod1Unit  cost: 563.7587ms
+InspectMod2Unit  cost: 712.5109ms
+barCode  cost: 170.0026ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 1611.2748ms
+InspectMod2Unit  cost: 1711.2762ms
+barCode  cost: 170.0026ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 567.5087ms
+InspectMod2Unit  cost: 672.5104ms
+Dark Test1  cost: 665.0102ms
+Dark Test2  cost: 837.5128ms
+rcst1  cost: 110.0017ms
+rcst2  cost: 106.2517ms
+White Test1  cost: 643.7599ms
+White Test2  cost: 822.5126ms
+Spectrograph2  cost: 7790.1196ms
+SendImage2  cost: 5.0001ms
+Spectrograph1  cost: 9550.1466ms
+SendImage1  cost: 1.25ms
+barCode  cost: 920.0142ms
+barCode  cost: 213.7533ms
+Rotatry  cost: 1180.0181ms
+barCode  cost: 162.5025ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 603.7593ms
+InspectMod2Unit  cost: 705.0109ms
+barCode  cost: 173.7526ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 1626.275ms
+InspectMod2Unit  cost: 1711.2763ms
+barCode  cost: 162.5025ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 353.7554ms
+InspectMod2Unit  cost: 436.2567ms
+Dark Test1  cost: 656.2601ms
+Dark Test2  cost: 830.0128ms
+rcst1  cost: 103.7515ms
+rcst1  cost: 103.7515ms
+rcst1  cost: 103.7515ms
+rcst2  cost: 103.7515ms
+White Test1  cost: 642.5099ms
+White Test2  cost: 827.5127ms
+Spectrograph2  cost: 7577.6164ms
+Spectrograph1  cost: 7930.1218ms
+SendImage2  cost: 1.25ms
+SendImage1  cost: 1.25ms
+barCode  cost: 321.2549ms
+Rotatry  cost: 1181.2682ms
+barCode  cost: 150.0023ms
+Rotatry  cost: 1181.2681ms
+InspectMod1Unit  cost: 535.0082ms
+InspectMod2Unit  cost: 653.7601ms
+barCode  cost: 171.2526ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 1612.5248ms
+InspectMod2Unit  cost: 1710.0263ms
+barCode  cost: 190.0029ms
+Rotatry  cost: 1180.0182ms
+InspectMod1Unit  cost: 531.2582ms
+rcst2  cost: 606.2593ms
+rcst2  cost: 606.2593ms
+rcst2  cost: 606.2593ms
+InspectMod2Unit  cost: 655.0101ms
+Dark Test2  cost: 836.2629ms
+Dark Test1  cost: 836.2628ms
+White Test2  cost: 821.2627ms
+White Test1  cost: 653.76ms
+Spectrograph2  cost: 7767.6193ms
+SendImage2  cost: 5ms
+Spectrograph1  cost: 9476.3956ms
+SendImage1  cost: 1.25ms
+SendAdvanTestResult1  cost: 42.5006ms
+barCode  cost: 181.2528ms
+Rotatry  cost: 1181.2682ms
+barCode  cost: 161.2525ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 578.7589ms
+InspectMod2Unit  cost: 678.7605ms
+barCode  cost: 170.0026ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 1612.5248ms
+InspectMod2Unit  cost: 1661.2756ms
+barCode  cost: 231.2536ms
+Rotatry  cost: 1180.0181ms
+rcst1  cost: 608.7593ms
+rcst2  cost: 602.5093ms
+InspectMod2Unit  cost: 640.0099ms
+Dark Test2  cost: 843.763ms
+Dark Test1  cost: 843.7629ms
+White Test2  cost: 823.7627ms
+White Test1  cost: 643.7599ms
+Spectrograph2  cost: 7760.1192ms
+SendImage2  cost: 1.25ms
+tsta2  cost: 805.0123ms
+Spectrograph1  cost: 9492.6458ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 600.0092ms
+barCode  cost: 351.2554ms
+Rotatry  cost: 1181.2681ms
+barCode  cost: 160.0025ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 63695.9784ms
+InspectMod2Unit  cost: 4031.3119ms
+barCode  cost: 160.0025ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 1118.2693ms
+InspectMod2Unit  cost: 7611.1341ms
+barCode  cost: 230.0036ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 567.5087ms
+rcst2  cost: 610.0094ms
+7.5087ms
+
+
+             rcst2  cost: 610.0094ms
+7.5087ms
+
+
+             InspectMod2Unit  cost: 660.0102ms
+Dark Test2  cost: 842.5129ms
+Dark Test1  cost: 843.763ms
+White Test2  cost: 821.2626ms
+White Test1  cost: 641.2598ms
+Spectrograph2  cost: 7772.6194ms
+SendImage2  cost: 1.25ms
+tsta2  cost: 705.0108ms
+Spectrograph1  cost: 9507.6461ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 600.0092ms
+barCode  cost: 251.2538ms
+Rotatry  cost: 1181.2682ms
+barCode  cost: 160.0025ms
+Rotatry  cost: 1181.2682ms
+InspectMod1Unit  cost: 537.5083ms
+InspectMod2Unit  cost: 4032.562ms
+barCode  cost: 170.0026ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 1561.274ms
+InspectMod2Unit  cost: 1662.5256ms
+barCode  cost: 180.0027ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 527.5081ms
+rcst2  cost: 506.2578ms
+7.5081ms
+
+              rcst2  cost: 506.2578ms
+7.5081ms
+
+              Dark Test2  cost: 843.763ms
+Dark Test1  cost: 842.5129ms
+InspectMod2Unit  cost: 4040.0621ms
+White Test2  cost: 821.2626ms
+White Test1  cost: 647.5099ms
+Spectrograph2  cost: 7766.3693ms
+SendImage2  cost: 1.25ms
+tsta2  cost: 506.2578ms
+Spectrograph1  cost: 9489.1468ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 3.7501ms
+tsta1  cost: 500.0076ms
+barCode  cost: 341.2553ms
+Rotatry  cost: 1181.2682ms
+barCode  cost: 150.0023ms
+Rotatry  cost: 1180.0182ms
+InspectMod1Unit  cost: 680.0105ms
+InspectMod2Unit  cost: 765.0118ms
+barCode  cost: 170.0026ms
+Rotatry  cost: 1180.0182ms
+InspectMod1Unit  cost: 1610.0247ms
+InspectMod2Unit  cost: 4036.312ms
+barCode  cost: 321.2549ms
+Rotatry  cost: 1181.2682ms
+barCode  cost: 401.2561ms
+Rotatry  cost: 3903.8099ms
+barCode  cost: 332.5051ms
+Rotatry  cost: 1181.2682ms
+InspectMod1Unit  cost: 556.2585ms
+InspectMod2Unit  cost: 658.7601ms
+barCode  cost: 150.0023ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 641.2598ms
+rcst1  cost: 607.5093ms
+rcst2  cost: 602.5093ms
+InspectMod2Unit  cost: 737.5113ms
+Dark Test2  cost: 841.2629ms
+Dark Test1  cost: 841.2629ms
+White Test2  cost: 822.5126ms
+White Test1  cost: 642.5099ms
+Spectrograph2  cost: 7855.1206ms
+SendImage2  cost: 1.2501ms
+tsta2  cost: 806.2623ms
+Spectrograph1  cost: 9213.8915ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 700.0107ms
+dest2  cost: 4300.0661ms
+CGhost Total Cost 2=10008.9038ms
+JPT Total Cost 2=10915.1675ms
+Total Cost 2=20924.0713ms
+################### Test2 End ####################
+dest1  cost: 4710.0724ms
+CGhost Total Cost 1=10727.6648ms
+JPT Total Cost 1=14740.2263ms
+Total Cost 1=25467.8911ms
+################### Test1 End ####################
+barCode  cost: 160.0024ms
+Rotatry  cost: 1180.0181ms
+rcst1  cost: 600.0092ms
+InspectMod1Unit  cost: 572.5088ms
+rcst2  cost: 600.0092ms
+InspectMod2Unit  cost: 666.2602ms
+Dark Test2  cost: 831.2627ms
+Dark Test1  cost: 831.2628ms
+White Test2  cost: 832.5128ms
+White Test1  cost: 648.76ms
+Spectrograph2  cost: 7598.8667ms
+SendImage2  cost: 0ms
+Spectrograph1  cost: 7942.622ms
+tsta2  cost: 501.2577ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3600.0553ms
+CGhost Total Cost 2=8301.3775ms
+JPT Total Cost 2=9928.9024ms
+Total Cost 2=18230.2799ms
+################### Test2 End ####################
+dest1  cost: 5000.0768ms
+CGhost Total Cost 1=11100.1705ms
+JPT Total Cost 1=11336.4241ms
+Total Cost 1=22436.5946ms
+################### Test1 End ####################
+barCode  cost: 263.754ms
+Rotatry  cost: 1180.0181ms
+rcst2  cost: 1102.517ms
+rcst2  cost: 1102.517ms
+rcst1  cost: 1105.017ms
+InspectMod1Unit  cost: 1107.517ms
+InspectMod2Unit  cost: 1161.2679ms
+Dark Test2  cost: 826.2626ms
+Dark Test1  cost: 826.2627ms
+White Test2  cost: 825.0127ms
+White Test1  cost: 643.7599ms
+Spectrograph2  cost: 7648.8675ms
+SendImage2  cost: 0ms
+Spectrograph1  cost: 7983.8726ms
+tsta2  cost: 502.5077ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3602.5554ms
+CGhost Total Cost 2=8810.1355ms
+JPT Total Cost 2=10461.4107ms
+Total Cost 2=19271.5462ms
+################### Test2 End ####################
+dest1  cost: 5001.3269ms
+CGhost Total Cost 1=11607.6785ms
+JPT Total Cost 1=12006.4343ms
+Total Cost 1=23614.1128ms
+################### Test1 End ####################
+barCode  cost: 322.505ms
+Rotatry  cost: 1180.0181ms
+rcst1  cost: 1000.0154ms
+InspectMod1Unit  cost: 1083.7666ms
+rcst2  cost: 1100.0168ms
+InspectMod2Unit  cost: 1163.7679ms
+Dark Test2  cost: 822.5127ms
+Dark Test1  cost: 822.5126ms
+White Test2  cost: 823.7627ms
+White Test1  cost: 652.51ms
+Spectrograph2  cost: 7673.8679ms
+SendImage2  cost: 0ms
+Spectrograph1  cost: 7945.1221ms
+tsta2  cost: 501.2577ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3601.3053ms
+CGhost Total Cost 2=8803.8851ms
+JPT Total Cost 2=10483.9112ms
+Total Cost 2=19287.7963ms
+################### Test2 End ####################
+dest1  cost: 4401.3176ms
+CGhost Total Cost 1=10302.6583ms
+JPT Total Cost 1=12007.6844ms
+Total Cost 1=22310.3427ms
+################### Test1 End ####################
+barCode  cost: 151.2523ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 1062.5163ms
+rcst1  cost: 1100.0169ms
+rcst2  cost: 1100.0169ms
+InspectMod2Unit  cost: 1161.2679ms
+Dark Test2  cost: 828.7628ms
+Dark Test1  cost: 827.5127ms
+White Test2  cost: 822.5127ms
+White Test1  cost: 643.7599ms
+Spectrograph2  cost: 7582.6164ms
+SendImage2  cost: 0ms
+Spectrograph1  cost: 7931.3718ms
+tsta2  cost: 502.5077ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3600.0553ms
+CGhost Total Cost 2=8802.6352ms
+JPT Total Cost 2=10395.1598ms
+Total Cost 2=19197.795ms
+################### Test2 End ####################
+dest1  cost: 5100.0783ms
+CGhost Total Cost 1=11800.1812ms
+JPT Total Cost 1=11797.6811ms
+Total Cost 1=23597.8623ms
+################### Test1 End ####################
+barCode  cost: 162.5025ms
+Rotatry  cost: 1180.0182ms
+rcst1  cost: 1000.0153ms
+rcst2  cost: 1000.0154ms
+InspectMod1Unit  cost: 1061.2663ms
+InspectMod2Unit  cost: 1160.0178ms
+Dark Test2  cost: 833.7629ms
+Dark Test1  cost: 833.7628ms
+White Test2  cost: 822.5127ms
+White Test1  cost: 645.0099ms
+Spectrograph2  cost: 7611.3669ms
+SendImage2  cost: 0ms
+Spectrograph1  cost: 7967.6224ms
+tsta2  cost: 501.2577ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 2.5ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3600.0553ms
+CGhost Total Cost 2=8701.3837ms
+JPT Total Cost 2=10427.6603ms
+Total Cost 2=19129.044ms
+################### Test2 End ####################
+dest1  cost: 5000.0768ms
+CGhost Total Cost 1=11500.1766ms
+JPT Total Cost 1=11852.6821ms
+Total Cost 1=23352.8587ms
+################### Test1 End ####################
+barCode  cost: 171.2526ms
+Rotatry  cost: 1180.0182ms
+rcst2  cost: 1000.0154ms
+rcst1  cost: 1000.0154ms
+InspectMod1Unit  cost: 1060.0163ms
+InspectMod2Unit  cost: 1161.2679ms
+Dark Test2  cost: 835.0128ms
+Dark Test1  cost: 833.7628ms
+White Test2  cost: 822.5126ms
+White Test1  cost: 640.0098ms
+Spectrograph2  cost: 7593.8666ms
+SendImage2  cost: 0ms
+Spectrograph1  cost: 7931.3719ms
+tsta2  cost: 701.2608ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3600.0553ms
+CGhost Total Cost 2=8901.3868ms
+JPT Total Cost 2=10412.6599ms
+Total Cost 2=19314.0467ms
+################### Test2 End ####################
+dest1  cost: 4938.8259ms
+CGhost Total Cost 1=11377.6749ms
+JPT Total Cost 1=11817.6816ms
+Total Cost 1=23195.3565ms
+################### Test1 End ####################
+barCode  cost: 352.5054ms
+Rotatry  cost: 1180.0181ms
+rcst2  cost: 1001.2654ms
+rcst1  cost: 1000.0153ms
+InspectMod1Unit  cost: 1111.2671ms
+barCode  cost: 498.7577ms
+InspectMod2Unit  cost: 1158.7678ms
+Dark Test2  cost: 826.2627ms
+Dark Test1  cost: 827.5127ms
+White Test2  cost: 823.7627ms
+White Test1  cost: 643.7599ms
+Spectrograph2  cost: 7598.8667ms
+SendImage2  cost: 0ms
+Spectrograph1  cost: 7961.3723ms
+tsta2  cost: 501.2577ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3601.3053ms
+CGhost Total Cost 2=8705.1337ms
+JPT Total Cost 2=10407.6599ms
+Total Cost 2=19112.7936ms
+################### Test2 End ####################
+dest1  cost: 4301.316ms
+CGhost Total Cost 1=10102.655ms
+JPT Total Cost 1=12576.4432ms
+Total Cost 1=22679.0982ms
+################### Test1 End ####################
+Rotatry  cost: 1180.0181ms
+rcst1  cost: 1000.0154ms
+InspectMod1Unit  cost: 1058.7663ms
+rcst2  cost: 1100.0169ms
+InspectMod2Unit  cost: 1161.2678ms
+Dark Test2  cost: 827.5127ms
+Dark Test1  cost: 826.2627ms
+White Test2  cost: 822.5126ms
+White Test1  cost: 648.76ms
+Spectrograph2  cost: 7588.8666ms
+SendImage2  cost: 0ms
+Spectrograph1  cost: 7936.3719ms
+tsta2  cost: 501.2577ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 600.0092ms
+dest2  cost: 3600.0553ms
+CGhost Total Cost 2=8801.3852ms
+JPT Total Cost 2=10400.1597ms
+Total Cost 2=19201.5449ms
+################### Test2 End ####################
+dest1  cost: 5100.0784ms
+CGhost Total Cost 1=11800.1814ms
+JPT Total Cost 1=11651.429ms
+Total Cost 1=23451.6104ms
+################### Test1 End ####################
+barCode  cost: 162.5025ms
+Rotatry  cost: 1180.0181ms
+rcst1  cost: 1000.0154ms
+InspectMod1Unit  cost: 1057.5163ms
+rcst2  cost: 1100.0169ms
+InspectMod2Unit  cost: 1160.0178ms
+Dark Test2  cost: 836.2628ms
+Dark Test1  cost: 836.2629ms
+White Test2  cost: 831.2628ms
+White Test1  cost: 648.7599ms
+Spectrograph2  cost: 7600.1167ms
+SendImage2  cost: 0ms
+Spectrograph1  cost: 7948.8721ms
+tsta2  cost: 701.2608ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3600.0553ms
+CGhost Total Cost 2=9001.3883ms
+JPT Total Cost 2=10427.6601ms
+Total Cost 2=19429.0484ms
+################### Test2 End ####################
+dest1  cost: 5001.3268ms
+CGhost Total Cost 1=11502.6767ms
+JPT Total Cost 1=11835.1818ms
+Total Cost 1=23337.8585ms
+################### Test1 End ####################
+barCode  cost: 161.2525ms
+Rotatry  cost: 1180.0181ms
+rcst1  cost: 1001.2654ms
+rcst2  cost: 1000.0154ms
+InspectMod1Unit  cost: 1011.2655ms
+InspectMod2Unit  cost: 1166.2679ms
+Dark Test2  cost: 827.5128ms
+Dark Test1  cost: 827.5127ms
+White Test2  cost: 823.7627ms
+White Test1  cost: 640.0098ms
+Spectrograph2  cost: 7588.8666ms
+SendImage2  cost: 0ms
+Spectrograph1  cost: 7936.3719ms
+tsta2  cost: 502.5077ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 2.5ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3600.0553ms
+CGhost Total Cost 2=8702.6337ms
+JPT Total Cost 2=10406.41ms
+Total Cost 2=19109.0437ms
+################### Test2 End ####################
+dest1  cost: 4900.0752ms
+CGhost Total Cost 1=11301.4235ms
+JPT Total Cost 1=11758.9305ms
+Total Cost 1=23060.354ms
+################### Test1 End ####################
+barCode  cost: 222.5034ms
+Rotatry  cost: 1180.0181ms
+rcst1  cost: 1000.0154ms
+rcst2  cost: 1000.0154ms
+InspectMod1Unit  cost: 1062.5163ms
+InspectMod2Unit  cost: 1212.5186ms
+Dark Test2  cost: 826.2626ms
+Dark Test1  cost: 825.0127ms
+White Test2  cost: 823.7627ms
+White Test1  cost: 641.2598ms
+Spectrograph2  cost: 7625.1171ms
+SendImage2  cost: 0ms
+Spectrograph1  cost: 7953.8722ms
+tsta2  cost: 501.2577ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 3.75ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3600.0553ms
+CGhost Total Cost 2=8701.3837ms
+JPT Total Cost 2=10487.661ms
+Total Cost 2=19189.0447ms
+################### Test2 End ####################
+dest1  cost: 4306.3162ms
+CGhost Total Cost 1=10112.6555ms
+JPT Total Cost 1=11888.9325ms
+Total Cost 1=22001.588ms
+################### Test1 End ####################
+barCode  cost: 171.2526ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 1058.7663ms
+rcst2  cost: 1100.0169ms
+rcst1  cost: 1100.0169ms
+InspectMod2Unit  cost: 1163.7679ms
+Dark Test2  cost: 828.7627ms
+Dark Test1  cost: 827.5127ms
+White Test2  cost: 823.7627ms
+White Test1  cost: 641.2599ms
+Spectrograph2  cost: 7588.8666ms
+SendImage2  cost: 0ms
+Spectrograph1  cost: 7948.872ms
+tsta2  cost: 501.2577ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3600.0553ms
+CGhost Total Cost 2=8801.3852ms
+JPT Total Cost 2=10405.1599ms
+Total Cost 2=19206.5451ms
+################### Test2 End ####################
+dest1  cost: 5113.8286ms
+CGhost Total Cost 1=11827.6818ms
+JPT Total Cost 1=11828.9316ms
+Total Cost 1=23656.6134ms
+################### Test1 End ####################
+barCode  cost: 161.2525ms
+Rotatry  cost: 1180.0181ms
+InspectMod1Unit  cost: 1066.2664ms
+rcst1  cost: 1100.0169ms
+rcst2  cost: 1100.0169ms
+InspectMod2Unit  cost: 1165.0179ms
+Dark Test2  cost: 826.2627ms
+Dark Test1  cost: 826.2627ms
+White Test2  cost: 823.7626ms
+White Test1  cost: 647.51ms
+Spectrograph2  cost: 7615.117ms
+SendImage2  cost: 0ms
+Spectrograph1  cost: 7981.3726ms
+tsta2  cost: 702.5108ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3600.0553ms
+CGhost Total Cost 2=9002.6383ms
+JPT Total Cost 2=10430.1602ms
+Total Cost 2=19432.7985ms
+################### Test2 End ####################
+barCode  cost: 192.5029ms
+dest1  cost: 5000.0768ms
+CGhost Total Cost 1=11600.1782ms
+JPT Total Cost 1=12056.4352ms
+Total Cost 1=23656.6134ms
+################### Test1 End ####################
+Rotatry  cost: 1180.0181ms
+rcst1  cost: 1000.0154ms
+InspectMod1Unit  cost: 1061.2663ms
+rcst2  cost: 1100.0169ms
+InspectMod2Unit  cost: 1158.7678ms
+Dark Test2  cost: 827.5127ms
+Dark Test1  cost: 826.2627ms
+White Test2  cost: 822.5126ms
+White Test1  cost: 655.0101ms
+Spectrograph2  cost: 7620.117ms
+SendImage2  cost: 0ms
+Spectrograph1  cost: 7958.8722ms
+tsta2  cost: 701.2608ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 2.5ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3702.5568ms
+CGhost Total Cost 2=9206.3913ms
+JPT Total Cost 2=10428.9101ms
+Total Cost 2=19635.3014ms
+################### Test2 End ####################
+dest1  cost: 5002.5768ms
+CGhost Total Cost 1=11505.1767ms
+JPT Total Cost 1=11683.9294ms
+Total Cost 1=23189.1061ms
+################### Test1 End ####################
+barCode  cost: 1061.2663ms
+Rotatry  cost: 781.262ms
+InspectMod1Unit  cost: 576.2589ms
+InspectMod2Unit  cost: 675.0103ms
+barCode  cost: 160.0025ms
+Rotatry  cost: 780.012ms
+rcst1  cost: 7.5001ms
+rcst2  cost: 1.25ms
+InspectMod1Unit  cost: 540.0083ms
+Dark Test1  cost: 663.7602ms
+Dark Test2  cost: 833.7629ms
+White Test1  cost: 653.76ms
+White Test2  cost: 825.0127ms
+InspectMod2Unit  cost: 4037.562ms
+Spectrograph2  cost: 5722.5879ms
+SendImage2  cost: 2.5ms
+barCode  cost: 211.2532ms
+Rotatry  cost: 781.262ms
+InspectMod1Unit  cost: 662.5102ms
+InspectMod2Unit  cost: 4032.562ms
+barCode  cost: 170.0027ms
+Rotatry  cost: 780.012ms
+rcst1  cost: 108.7517ms
+rcst2  cost: 108.7517ms
+InspectMod1Unit  cost: 537.5083ms
+InspectMod2Unit  cost: 613.7594ms
+Dark Test1  cost: 658.7601ms
+Dark Test2  cost: 1168.768ms
+White Test1  cost: 646.2599ms
+White Test2  cost: 827.5127ms
+Spectrograph2  cost: 5917.5909ms
+SendImage2  cost: 1.25ms
+Spectrograph1  cost: 133969.3185ms
+barCode  cost: 331.2551ms
+Rotatry  cost: 781.262ms
+InspectMod1Unit  cost: 663.7602ms
+InspectMod2Unit  cost: 760.0117ms
+barCode  cost: 160.0024ms
+Rotatry  cost: 780.012ms
+rcst2  cost: 323.755ms
+rcst1  cost: 327.505ms
+InspectMod1Unit  cost: 653.7601ms
+InspectMod2Unit  cost: 758.7616ms
+Dark Test1  cost: 705.0108ms
+Dark Test2  cost: 1237.519ms
+White Test1  cost: 655.01ms
+White Test2  cost: 827.5127ms
+Spectrograph2  cost: 5940.0912ms
+SendImage2  cost: 3.75ms
+Spectrograph1  cost: 7590.1166ms
+tsta2  cost: 510.0078ms
+barCode  cost: 161.2525ms
+Rotatry  cost: 778.7619ms
+InspectMod1Unit  cost: 843.7629ms
+InspectMod2Unit  cost: 941.2644ms
+barCode  cost: 150.0023ms
+Rotatry  cost: 780.012ms
+rcst1  cost: 30.0005ms
+rcst2  cost: 27.5004ms
+InspectMod1Unit  cost: 542.5084ms
+Dark Test1  cost: 657.5101ms
+Dark Test2  cost: 1166.2679ms
+White Test1  cost: 653.76ms
+White Test2  cost: 827.5127ms
+InspectMod2Unit  cost: 4053.8123ms
+Spectrograph2  cost: 5936.3412ms
+SendImage2  cost: 1.25ms
+Spectrograph1  cost: 7600.1168ms
+tsta2  cost: 506.2578ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 2.5ms
+tsta1  cost: 500.0077ms
+dest2  cost: 3200.0492ms
+CGhost Total Cost 2=6933.8566ms
+JPT Total Cost 2=12925.1985ms
+Total Cost 2=19859.0551ms
+################### Test2 End ####################
+dest1  cost: 4833.8242ms
+CGhost Total Cost 1=10197.6566ms
+JPT Total Cost 1=12170.1869ms
+Total Cost 1=22367.8435ms
+################### Test1 End ####################
+barCode  cost: 162.5025ms
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+InspectMod1Unit  cost: 561.2586ms
+InspectMod2Unit  cost: 655.0101ms
+Dark Test1  cost: 647.5099ms
+Dark Test2  cost: 1148.7677ms
+White Test1  cost: 647.5099ms
+White Test2  cost: 828.7628ms
+Spectrograph1  cost: 6195.0952ms
+Spectrograph2  cost: 5482.5842ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+SendImage2  cost: 0ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3240.0498ms
+CGhost Total Cost 2=6981.3573ms
+JPT Total Cost 2=8115.1248ms
+Total Cost 2=15096.4821ms
+################### Test2 End ####################
+dest1  cost: 6022.5925ms
+CGhost Total Cost 1=12545.1927ms
+JPT Total Cost 1=8995.1381ms
+Total Cost 1=21540.3308ms
+################### Test1 End ####################
+barCode  cost: 232.5035ms
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 645.0099ms
+InspectMod1Unit  cost: 1058.7662ms
+Dark Test2  cost: 1137.5175ms
+White Test1  cost: 648.76ms
+White Test2  cost: 825.0127ms
+InspectMod2Unit  cost: 4030.0619ms
+Spectrograph1  cost: 6173.8448ms
+Spectrograph2  cost: 5471.334ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 2.5ms
+SendImage2  cost: 0ms
+tsta1  cost: 700.0107ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3226.2995ms
+CGhost Total Cost 2=6953.8567ms
+JPT Total Cost 2=11463.9261ms
+Total Cost 2=18417.7828ms
+################### Test2 End ####################
+dest1  cost: 5933.8411ms
+CGhost Total Cost 1=12567.6929ms
+JPT Total Cost 1=9541.3964ms
+Total Cost 1=22109.0893ms
+################### Test1 End ####################
+barCode  cost: 272.5041ms
+Rotatry  cost: 780.012ms
+rcst1  cost: 0ms
+Dark Test1  cost: 643.7599ms
+InspectMod1Unit  cost: 1078.7666ms
+InspectMod2Unit  cost: 1161.2678ms
+White Test1  cost: 647.5099ms
+rcst2  cost: 2998.796ms
+Dark Test2  cost: 827.5127ms
+White Test2  cost: 823.7626ms
+Spectrograph1  cost: 6185.095ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 2.5ms
+tsta1  cost: 500.0077ms
+Spectrograph2  cost: 5493.8344ms
+SendImage2  cost: 0ms
+tsta2  cost: 501.2577ms
+dest1  cost: 3110.0477ms
+CGhost Total Cost 1=6720.1031ms
+JPT Total Cost 1=9610.1475ms
+Total Cost 1=16330.2506ms
+################### Test1 End ####################
+dest2  cost: 4800.0737ms
+CGhost Total Cost 2=13100.2011ms
+JPT Total Cost 2=8306.3775ms
+Total Cost 2=21406.5786ms
+################### Test2 End ####################
+barCode  cost: 175.0027ms
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test1  cost: 648.7599ms
+InspectMod1Unit  cost: 992.5152ms
+Dark Test2  cost: 1187.5183ms
+White Test1  cost: 647.51ms
+White Test2  cost: 823.7627ms
+InspectMod2Unit  cost: 4060.0624ms
+Spectrograph1  cost: 6148.8444ms
+Spectrograph2  cost: 5447.5837ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+SendImage2  cost: 0ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3211.2993ms
+CGhost Total Cost 2=6923.8563ms
+JPT Total Cost 2=11518.9271ms
+Total Cost 2=18442.7834ms
+################### Test2 End ####################
+dest1  cost: 6140.0943ms
+CGhost Total Cost 1=12780.1963ms
+JPT Total Cost 1=9393.8942ms
+Total Cost 1=22174.0905ms
+################### Test1 End ####################
+barCode  cost: 176.2527ms
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test1  cost: 646.2599ms
+InspectMod1Unit  cost: 1058.7663ms
+InspectMod2Unit  cost: 1158.7678ms
+Dark Test2  cost: 1166.2679ms
+White Test1  cost: 647.5099ms
+White Test2  cost: 820.0126ms
+Spectrograph1  cost: 6155.0946ms
+Spectrograph2  cost: 5486.3343ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 2.5ms
+tsta1  cost: 500.0077ms
+SendImage2  cost: 0ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3231.2996ms
+CGhost Total Cost 2=6963.8569ms
+JPT Total Cost 2=8631.3826ms
+Total Cost 2=15595.2395ms
+################### Test2 End ####################
+dest1  cost: 6046.3429ms
+CGhost Total Cost 1=12592.6935ms
+JPT Total Cost 1=9466.3954ms
+Total Cost 1=22059.0889ms
+################### Test1 End ####################
+barCode  cost: 171.2527ms
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test1  cost: 641.2599ms
+InspectMod1Unit  cost: 1010.0155ms
+InspectMod2Unit  cost: 1118.7672ms
+Dark Test2  cost: 1168.7679ms
+White Test1  cost: 647.51ms
+White Test2  cost: 820.0126ms
+Spectrograph1  cost: 6126.3441ms
+Spectrograph2  cost: 5448.8337ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+SendImage2  cost: 0ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3245.0499ms
+CGhost Total Cost 2=6991.3575ms
+JPT Total Cost 2=8556.3814ms
+Total Cost 2=15547.7389ms
+################### Test2 End ####################
+dest1  cost: 5947.5914ms
+CGhost Total Cost 1=12395.1905ms
+JPT Total Cost 1=9377.6442ms
+Total Cost 1=21772.8347ms
+################### Test1 End ####################
+barCode  cost: 382.5059ms
+Rotatry  cost: 780.0119ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 640.0098ms
+InspectMod1Unit  cost: 1005.0154ms
+Dark Test2  cost: 1142.5175ms
+White Test1  cost: 647.5099ms
+White Test2  cost: 831.2628ms
+InspectMod2Unit  cost: 4053.8123ms
+Spectrograph1  cost: 6146.3445ms
+Spectrograph2  cost: 5445.0836ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+SendImage2  cost: 0ms
+tsta2  cost: 502.5078ms
+dest2  cost: 3231.2996ms
+CGhost Total Cost 2=6965.107ms
+JPT Total Cost 2=11472.6762ms
+Total Cost 2=18437.7832ms
+################### Test2 End ####################
+dest1  cost: 5312.5816ms
+CGhost Total Cost 1=11125.1709ms
+JPT Total Cost 1=9602.6474ms
+Total Cost 1=20727.8183ms
+################### Test1 End ####################
+barCode  cost: 165.0025ms
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test1  cost: 643.7599ms
+InspectMod1Unit  cost: 1062.5163ms
+InspectMod2Unit  cost: 1161.2678ms
+Dark Test2  cost: 1157.5178ms
+White Test1  cost: 647.51ms
+White Test2  cost: 826.2626ms
+Spectrograph1  cost: 6133.8442ms
+Spectrograph2  cost: 5426.3333ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+SendImage2  cost: 0ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3233.7996ms
+CGhost Total Cost 2=6968.8569ms
+JPT Total Cost 2=8571.3815ms
+Total Cost 2=15540.2384ms
+################### Test2 End ####################
+dest1  cost: 6156.3445ms
+CGhost Total Cost 1=12812.6967ms
+JPT Total Cost 1=9433.8949ms
+Total Cost 1=22246.5916ms
+################### Test1 End ####################
+barCode  cost: 176.2527ms
+Rotatry  cost: 780.012ms
+InspectMod1Unit  cost: 1017.5156ms
+InspectMod2Unit  cost: 1170.018ms
+rcst2  cost: 3000.046ms
+rcst2  cost: 3000.046ms
+rcst1  cost: 3000.0461ms
+Dark Test1  cost: 646.2599ms
+Dark Test2  cost: 1160.0178ms
+White Test1  cost: 656.2601ms
+White Test2  cost: 828.7627ms
+Spectrograph1  cost: 6141.3443ms
+Spectrograph2  cost: 5466.334ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.2501ms
+tsta1  cost: 500.0076ms
+SendImage2  cost: 0ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3246.2999ms
+CGhost Total Cost 2=9993.9035ms
+JPT Total Cost 2=8625.1325ms
+Total Cost 2=18619.036ms
+################### Test2 End ####################
+dest1  cost: 6047.5929ms
+CGhost Total Cost 1=15595.2395ms
+JPT Total Cost 1=9418.8947ms
+Total Cost 1=25014.1342ms
+################### Test1 End ####################
+barCode  cost: 168.7526ms
+Rotatry  cost: 780.012ms
+rcst2  cost: 0ms
+rcst1  cost: 0ms
+Dark Test1  cost: 653.76ms
+InspectMod1Unit  cost: 1061.2663ms
+Dark Test2  cost: 1168.768ms
+White Test1  cost: 656.2601ms
+White Test2  cost: 827.5127ms
+InspectMod2Unit  cost: 4077.5626ms
+Spectrograph1  cost: 6162.5946ms
+Spectrograph2  cost: 5450.0838ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 501.2577ms
+SendImage2  cost: 0ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3241.2998ms
+CGhost Total Cost 2=6983.8573ms
+JPT Total Cost 2=11523.9271ms
+Total Cost 2=18507.7844ms
+################### Test2 End ####################
+dest1  cost: 5940.0912ms
+CGhost Total Cost 1=12381.4401ms
+JPT Total Cost 1=9483.8956ms
+Total Cost 1=21865.3357ms
+################### Test1 End ####################
+barCode  cost: 332.5051ms
+Rotatry  cost: 780.0119ms
+rcst1  cost: 0ms
+rcst2  cost: 0ms
+Dark Test1  cost: 640.0098ms
+InspectMod1Unit  cost: 1061.2663ms
+InspectMod2Unit  cost: 1160.0178ms
+Dark Test2  cost: 1141.2676ms
+White Test1  cost: 656.2601ms
+White Test2  cost: 827.5127ms
+Spectrograph1  cost: 6138.8443ms
+Spectrograph2  cost: 5432.5834ms
+SendImage1  cost: 0ms
+SendAdvanTestResult1  cost: 1.25ms
+tsta1  cost: 500.0077ms
+SendImage2  cost: 0ms
+tsta2  cost: 501.2577ms
+dest2  cost: 3240.0498ms
+CGhost Total Cost 2=6981.3573ms
+JPT Total Cost 2=8561.3815ms
+Total Cost 2=15542.7388ms
+################### Test2 End ####################
+dest1  cost: 5322.5818ms
+CGhost Total Cost 1=11145.1713ms
+JPT Total Cost 1=9610.1475ms
+Total Cost 1=20755.3188ms
+################### Test1 End ####################
