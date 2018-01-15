@@ -81,6 +81,7 @@ namespace JPTCG.Common
     }
     public class Para
     {
+	//Just test for GitHub
         public static double HeightUplimited_L = 0.5;
         public static int NDTime = 8;
         public static object logobj = new object();
